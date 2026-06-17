@@ -1,0 +1,2934 @@
+{
+  "file name" : "DSOF_1067-O20F21.pdf",
+  "number of pages" : 7,
+  "author" : "MARCELO COSTA C",
+  "title" : null,
+  "creation date" : "D:20260513113601-05'00'",
+  "modification date" : "2024-01-16T22:40:28.000-05",
+  "kids" : [ {
+    "type" : "image",
+    "pdfua_tag" : "Figure",
+    "id" : 30,
+    "page number" : 1,
+    "bounding box" : [ 154.9, 576.789, 548.5, 773.789 ],
+    "source" : "DSOF_1067-O20F21_images/imageFile1.png"
+  }, {
+    "type" : "heading",
+    "pdfua_tag" : "H1",
+    "id" : 31,
+    "level" : "Doctitle",
+    "page number" : 1,
+    "bounding box" : [ 118.3, 587.325, 457.33, 607.979 ],
+    "heading level" : 1,
+    "font" : "LiberationSansNarrow-Bold",
+    "font size" : 18.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "UNIVERSIDAD TÉCNICA PARTICULAR DE LOJA"
+  }, {
+    "type" : "paragraph",
+    "pdfua_tag" : "P",
+    "id" : 32,
+    "page number" : 1,
+    "bounding box" : [ 191.5, 553.098, 356.076, 571.458 ],
+    "font" : "LiberationSansNarrow",
+    "font size" : 16.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "MODALIDAD PRESENCIAL"
+  }, {
+    "type" : "heading",
+    "pdfua_tag" : "H1",
+    "id" : 33,
+    "level" : "Subtitle",
+    "page number" : 1,
+    "bounding box" : [ 175.5, 465.475, 372.192, 486.129 ],
+    "heading level" : 1,
+    "font" : "LiberationSansNarrow-Bold",
+    "font size" : 18.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "ÁREA ACADÉMICA: Técnica"
+  }, {
+    "type" : "heading",
+    "pdfua_tag" : "H2",
+    "id" : 34,
+    "level" : "Subtitle",
+    "page number" : 1,
+    "bounding box" : [ 189.0, 407.725, 358.69, 428.379 ],
+    "heading level" : 2,
+    "font" : "LiberationSansNarrow",
+    "font size" : 18.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "CARRERA: Computación"
+  }, {
+    "type" : "heading",
+    "pdfua_tag" : "H3",
+    "id" : 35,
+    "level" : "Subtitle",
+    "page number" : 1,
+    "bounding box" : [ 78.6, 313.598, 460.444, 331.958 ],
+    "heading level" : 3,
+    "font" : "LiberationSansNarrow-Bold",
+    "font size" : 16.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "PROGRAMA DE ASIGNATURA: Introducción a la programación"
+  }, {
+    "type" : "paragraph",
+    "pdfua_tag" : "P",
+    "id" : 36,
+    "page number" : 1,
+    "bounding box" : [ 225.45, 228.098, 313.578, 246.458 ],
+    "font" : "LiberationSansNarrow",
+    "font size" : 16.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Loja – Ecuador"
+  }, {
+    "type" : "paragraph",
+    "pdfua_tag" : "P",
+    "id" : 37,
+    "page number" : 1,
+    "bounding box" : [ 255.0, 176.798, 284.136, 195.158 ],
+    "font" : "LiberationSansNarrow",
+    "font size" : 16.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "2020"
+  }, {
+    "type" : "heading",
+    "pdfua_tag" : "H4",
+    "id" : 39,
+    "level" : "Subtitle",
+    "page number" : 2,
+    "bounding box" : [ 74.8, 727.622, 308.806, 743.687 ],
+    "heading level" : 4,
+    "font" : "LiberationSansNarrow-Bold",
+    "font size" : 14.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "A. Datos de identificación de la asignatura"
+  }, {
+    "type" : "table",
+    "pdfua_tag" : "Table",
+    "id" : 40,
+    "level" : "1",
+    "page number" : 2,
+    "bounding box" : [ 76.35, 446.589, 529.55, 707.589 ],
+    "number of rows" : 14,
+    "number of columns" : 3,
+    "rows" : [ {
+      "type" : "table row",
+      "row number" : 1,
+      "cells" : [ {
+        "type" : "table cell",
+        "pdfua_tag" : "TD",
+        "page number" : 2,
+        "bounding box" : [ 76.85, 693.239, 238.6, 707.089 ],
+        "row number" : 1,
+        "column number" : 1,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "pdfua_tag" : "P",
+          "id" : 1,
+          "page number" : 2,
+          "bounding box" : [ 82.05, 695.358, 132.122, 707.98 ],
+          "font" : "LiberationSansNarrow-Bold",
+          "font size" : 11.0,
+          "text color" : "[0.0, 0.0, 0.0]",
+          "content" : "Asignatura:"
+        } ]
+      }, {
+        "type" : "table cell",
+        "pdfua_tag" : "TD",
+        "page number" : 2,
+        "bounding box" : [ 238.6, 693.239, 529.05, 707.089 ],
+        "row number" : 1,
+        "column number" : 2,
+        "row span" : 1,
+        "column span" : 2,
+        "kids" : [ {
+          "type" : "paragraph",
+          "pdfua_tag" : "P",
+          "id" : 2,
+          "page number" : 2,
+          "bounding box" : [ 244.1, 695.358, 367.883, 707.98 ],
+          "font" : "LiberationSansNarrow",
+          "font size" : 11.0,
+          "text color" : "[0.0, 0.0, 0.0]",
+          "content" : "Introducción a la programación"
+        } ]
+      } ]
+    }, {
+      "type" : "table row",
+      "row number" : 2,
+      "cells" : [ {
+        "type" : "table cell",
+        "pdfua_tag" : "TD",
+        "page number" : 2,
+        "bounding box" : [ 76.85, 679.039, 238.6, 693.239 ],
+        "row number" : 2,
+        "column number" : 1,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "pdfua_tag" : "P",
+          "id" : 3,
+          "page number" : 2,
+          "bounding box" : [ 82.05, 681.208, 177.211, 693.83 ],
+          "font" : "LiberationSansNarrow-Bold",
+          "font size" : 11.0,
+          "text color" : "[0.0, 0.0, 0.0]",
+          "content" : "Modalidad de estudio:"
+        } ]
+      }, {
+        "type" : "table cell",
+        "pdfua_tag" : "TD",
+        "page number" : 2,
+        "bounding box" : [ 238.6, 679.039, 529.05, 693.239 ],
+        "row number" : 2,
+        "column number" : 2,
+        "row span" : 1,
+        "column span" : 2,
+        "kids" : [ {
+          "type" : "paragraph",
+          "pdfua_tag" : "P",
+          "id" : 4,
+          "page number" : 2,
+          "bounding box" : [ 244.1, 681.208, 286.175, 693.83 ],
+          "font" : "LiberationSansNarrow",
+          "font size" : 11.0,
+          "text color" : "[0.0, 0.0, 0.0]",
+          "content" : "Presencial"
+        } ]
+      } ]
+    }, {
+      "type" : "table row",
+      "row number" : 3,
+      "cells" : [ {
+        "type" : "table cell",
+        "pdfua_tag" : "TD",
+        "page number" : 2,
+        "bounding box" : [ 76.85, 664.939, 238.6, 679.039 ],
+        "row number" : 3,
+        "column number" : 1,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "pdfua_tag" : "P",
+          "id" : 5,
+          "page number" : 2,
+          "bounding box" : [ 82.05, 667.058, 155.178, 679.68 ],
+          "font" : "LiberationSansNarrow-Bold",
+          "font size" : 11.0,
+          "text color" : "[0.0, 0.0, 0.0]",
+          "content" : "Área Académica:"
+        } ]
+      }, {
+        "type" : "table cell",
+        "pdfua_tag" : "TD",
+        "page number" : 2,
+        "bounding box" : [ 238.6, 664.939, 529.05, 679.039 ],
+        "row number" : 3,
+        "column number" : 2,
+        "row span" : 1,
+        "column span" : 2,
+        "kids" : [ {
+          "type" : "paragraph",
+          "pdfua_tag" : "P",
+          "id" : 6,
+          "page number" : 2,
+          "bounding box" : [ 244.1, 667.058, 275.659, 679.68 ],
+          "font" : "LiberationSansNarrow",
+          "font size" : 11.0,
+          "text color" : "[0.0, 0.0, 0.0]",
+          "content" : "Técnica"
+        } ]
+      } ]
+    }, {
+      "type" : "table row",
+      "row number" : 4,
+      "cells" : [ {
+        "type" : "table cell",
+        "pdfua_tag" : "TD",
+        "page number" : 2,
+        "bounding box" : [ 76.85, 637.239, 238.6, 664.939 ],
+        "row number" : 4,
+        "column number" : 1,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "pdfua_tag" : "P",
+          "id" : 7,
+          "page number" : 2,
+          "bounding box" : [ 82.05, 652.908, 184.746, 665.53 ],
+          "font" : "LiberationSansNarrow-Bold",
+          "font size" : 11.0,
+          "text color" : "[0.0, 0.0, 0.0]",
+          "content" : "Sección Departamental:"
+        } ]
+      }, {
+        "type" : "table cell",
+        "pdfua_tag" : "TD",
+        "page number" : 2,
+        "bounding box" : [ 238.6, 637.239, 529.05, 664.939 ],
+        "row number" : 4,
+        "column number" : 2,
+        "row span" : 1,
+        "column span" : 2,
+        "kids" : [ {
+          "type" : "paragraph",
+          "pdfua_tag" : "P",
+          "id" : 8,
+          "page number" : 2,
+          "bounding box" : [ 244.1, 639.358, 485.704, 665.53 ],
+          "font" : "LiberationSansNarrow",
+          "font size" : 11.0,
+          "text color" : "[0.0, 0.0, 0.0]",
+          "content" : "Tecnologías avanzadas de la web y Sistemas basados en el conocimiento"
+        } ]
+      } ]
+    }, {
+      "type" : "table row",
+      "row number" : 5,
+      "cells" : [ {
+        "type" : "table cell",
+        "pdfua_tag" : "TD",
+        "page number" : 2,
+        "bounding box" : [ 76.85, 623.039, 238.6, 637.239 ],
+        "row number" : 5,
+        "column number" : 1,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "pdfua_tag" : "P",
+          "id" : 9,
+          "page number" : 2,
+          "bounding box" : [ 82.05, 625.208, 176.705, 637.83 ],
+          "font" : "LiberationSansNarrow-Bold",
+          "font size" : 11.0,
+          "text color" : "[0.0, 0.0, 0.0]",
+          "content" : "Nombre de la Carrera:"
+        } ]
+      }, {
+        "type" : "table cell",
+        "pdfua_tag" : "TD",
+        "page number" : 2,
+        "bounding box" : [ 238.6, 623.039, 529.05, 637.239 ],
+        "row number" : 5,
+        "column number" : 2,
+        "row span" : 1,
+        "column span" : 2,
+        "kids" : [ {
+          "type" : "paragraph",
+          "pdfua_tag" : "P",
+          "id" : 10,
+          "page number" : 2,
+          "bounding box" : [ 244.1, 625.208, 297.219, 637.83 ],
+          "font" : "LiberationSansNarrow",
+          "font size" : 11.0,
+          "text color" : "[0.0, 0.0, 0.0]",
+          "content" : "Computación"
+        } ]
+      } ]
+    }, {
+      "type" : "table row",
+      "row number" : 6,
+      "cells" : [ {
+        "type" : "table cell",
+        "pdfua_tag" : "TD",
+        "page number" : 2,
+        "bounding box" : [ 76.85, 608.939, 238.6, 623.039 ],
+        "row number" : 6,
+        "column number" : 1,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "pdfua_tag" : "P",
+          "id" : 11,
+          "page number" : 2,
+          "bounding box" : [ 82.05, 611.058, 231.331, 623.68 ],
+          "font" : "LiberationSansNarrow-Bold",
+          "font size" : 11.0,
+          "text color" : "[0.0, 0.0, 0.0]",
+          "content" : "Campo de formación del currículo:"
+        } ]
+      }, {
+        "type" : "table cell",
+        "pdfua_tag" : "TD",
+        "page number" : 2,
+        "bounding box" : [ 238.6, 608.939, 529.05, 623.039 ],
+        "row number" : 6,
+        "column number" : 2,
+        "row span" : 1,
+        "column span" : 2,
+        "kids" : [ {
+          "type" : "paragraph",
+          "pdfua_tag" : "P",
+          "id" : 12,
+          "page number" : 2,
+          "bounding box" : [ 244.1, 611.058, 333.288, 623.68 ],
+          "font" : "LiberationSansNarrow",
+          "font size" : 11.0,
+          "text color" : "[0.0, 0.0, 0.0]",
+          "content" : "Fundamentos teóricos"
+        } ]
+      } ]
+    }, {
+      "type" : "table row",
+      "row number" : 7,
+      "cells" : [ {
+        "type" : "table cell",
+        "pdfua_tag" : "TD",
+        "page number" : 2,
+        "bounding box" : [ 76.85, 594.739, 238.6, 608.939 ],
+        "row number" : 7,
+        "column number" : 1,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "pdfua_tag" : "P",
+          "id" : 13,
+          "page number" : 2,
+          "bounding box" : [ 82.05, 596.908, 169.192, 609.53 ],
+          "font" : "LiberationSansNarrow-Bold",
+          "font size" : 11.0,
+          "text color" : "[0.0, 0.0, 0.0]",
+          "content" : "Período Académico:"
+        } ]
+      }, {
+        "type" : "table cell",
+        "pdfua_tag" : "TD",
+        "page number" : 2,
+        "bounding box" : [ 238.6, 594.739, 529.05, 608.939 ],
+        "row number" : 7,
+        "column number" : 2,
+        "row span" : 1,
+        "column span" : 2,
+        "kids" : [ {
+          "type" : "paragraph",
+          "pdfua_tag" : "P",
+          "id" : 14,
+          "page number" : 2,
+          "bounding box" : [ 244.1, 596.908, 275.637, 609.53 ],
+          "font" : "LiberationSansNarrow",
+          "font size" : 11.0,
+          "text color" : "[0.0, 0.0, 0.0]",
+          "content" : "Primero"
+        } ]
+      } ]
+    }, {
+      "type" : "table row",
+      "row number" : 8,
+      "cells" : [ {
+        "type" : "table cell",
+        "pdfua_tag" : "TD",
+        "page number" : 2,
+        "bounding box" : [ 76.85, 580.639, 238.6, 594.739 ],
+        "row number" : 8,
+        "column number" : 1,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "pdfua_tag" : "P",
+          "id" : 15,
+          "page number" : 2,
+          "bounding box" : [ 82.05, 582.758, 191.72, 595.38 ],
+          "font" : "LiberationSansNarrow-Bold",
+          "font size" : 11.0,
+          "text color" : "[0.0, 0.0, 0.0]",
+          "content" : "Número de crédito horas:"
+        } ]
+      }, {
+        "type" : "table cell",
+        "pdfua_tag" : "TD",
+        "page number" : 2,
+        "bounding box" : [ 238.6, 580.639, 384.0, 594.739 ],
+        "row number" : 8,
+        "column number" : 2,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "pdfua_tag" : "P",
+          "id" : 16,
+          "page number" : 2,
+          "bounding box" : [ 244.1, 582.758, 283.161, 595.38 ],
+          "font" : "LiberationSansNarrow",
+          "font size" : 11.0,
+          "text color" : "[0.0, 0.0, 0.0]",
+          "content" : "Crédito: 3"
+        } ]
+      }, {
+        "type" : "table cell",
+        "pdfua_tag" : "TD",
+        "page number" : 2,
+        "bounding box" : [ 384.0, 580.639, 529.05, 594.739 ],
+        "row number" : 8,
+        "column number" : 3,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "pdfua_tag" : "P",
+          "id" : 17,
+          "page number" : 2,
+          "bounding box" : [ 389.5, 582.758, 433.599, 595.38 ],
+          "font" : "LiberationSansNarrow",
+          "font size" : 11.0,
+          "text color" : "[0.0, 0.0, 0.0]",
+          "content" : "Horas: 144"
+        } ]
+      } ]
+    }, {
+      "type" : "table row",
+      "row number" : 9,
+      "cells" : [ {
+        "type" : "table cell",
+        "pdfua_tag" : "TD",
+        "page number" : 2,
+        "bounding box" : [ 76.85, 566.439, 238.6, 580.639 ],
+        "row number" : 9,
+        "column number" : 1,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "pdfua_tag" : "P",
+          "id" : 18,
+          "page number" : 2,
+          "bounding box" : [ 82.05, 568.608, 116.084, 581.23 ],
+          "font" : "LiberationSansNarrow-Bold",
+          "font size" : 11.0,
+          "text color" : "[0.0, 0.0, 0.0]",
+          "content" : "Código:"
+        } ]
+      }, {
+        "type" : "table cell",
+        "pdfua_tag" : "TD",
+        "page number" : 2,
+        "bounding box" : [ 238.6, 566.439, 529.05, 580.639 ],
+        "row number" : 9,
+        "column number" : 2,
+        "row span" : 1,
+        "column span" : 2,
+        "kids" : [ {
+          "type" : "paragraph",
+          "pdfua_tag" : "P",
+          "id" : 19,
+          "page number" : 2,
+          "bounding box" : [ 244.1, 568.608, 294.205, 581.23 ],
+          "font" : "LiberationSansNarrow",
+          "font size" : 11.0,
+          "text color" : "[0.0, 0.0, 0.0]",
+          "content" : "DSOF_1067"
+        } ]
+      } ]
+    }, {
+      "type" : "table row",
+      "row number" : 10,
+      "cells" : [ {
+        "type" : "table cell",
+        "pdfua_tag" : "TD",
+        "page number" : 2,
+        "bounding box" : [ 76.85, 552.339, 238.6, 566.439 ],
+        "row number" : 10,
+        "column number" : 1,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "pdfua_tag" : "P",
+          "id" : 20,
+          "page number" : 2,
+          "bounding box" : [ 82.05, 554.458, 145.63, 567.08 ],
+          "font" : "LiberationSansNarrow-Bold",
+          "font size" : 11.0,
+          "text color" : "[0.0, 0.0, 0.0]",
+          "content" : "Pre-requisitos:"
+        } ]
+      }, {
+        "type" : "table cell",
+        "pdfua_tag" : "TD",
+        "page number" : 2,
+        "bounding box" : [ 238.6, 552.339, 529.05, 566.439 ],
+        "row number" : 10,
+        "column number" : 2,
+        "row span" : 1,
+        "column span" : 2,
+        "kids" : [ {
+          "type" : "paragraph",
+          "pdfua_tag" : "P",
+          "id" : 21,
+          "level" : "1",
+          "page number" : 2,
+          "bounding box" : [ 246.608, 554.458, 249.589, 567.08 ],
+          "font" : "LiberationSansNarrow",
+          "font size" : 11.0,
+          "text color" : "[0.0, 0.0, 0.0]",
+          "content" : "-"
+        } ]
+      } ]
+    }, {
+      "type" : "table row",
+      "row number" : 11,
+      "cells" : [ {
+        "type" : "table cell",
+        "pdfua_tag" : "TD",
+        "page number" : 2,
+        "bounding box" : [ 76.85, 538.139, 238.6, 552.339 ],
+        "row number" : 11,
+        "column number" : 1,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "pdfua_tag" : "P",
+          "id" : 22,
+          "page number" : 2,
+          "bounding box" : [ 82.05, 540.308, 143.617, 552.93 ],
+          "font" : "LiberationSansNarrow-Bold",
+          "font size" : 11.0,
+          "text color" : "[0.0, 0.0, 0.0]",
+          "content" : "Correquisitos:"
+        } ]
+      }, {
+        "type" : "table cell",
+        "pdfua_tag" : "TD",
+        "page number" : 2,
+        "bounding box" : [ 238.6, 538.139, 529.05, 552.339 ],
+        "row number" : 11,
+        "column number" : 2,
+        "row span" : 1,
+        "column span" : 2,
+        "kids" : [ {
+          "type" : "paragraph",
+          "pdfua_tag" : "P",
+          "id" : 23,
+          "level" : "1",
+          "page number" : 2,
+          "bounding box" : [ 244.1, 540.308, 247.092, 552.93 ],
+          "font" : "LiberationSansNarrow",
+          "font size" : 11.0,
+          "text color" : "[0.0, 0.0, 0.0]",
+          "content" : "-"
+        } ]
+      } ]
+    }, {
+      "type" : "table row",
+      "row number" : 12,
+      "cells" : [ {
+        "type" : "table cell",
+        "pdfua_tag" : "TD",
+        "page number" : 2,
+        "bounding box" : [ 76.85, 496.939, 238.6, 538.139 ],
+        "row number" : 12,
+        "column number" : 1,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "pdfua_tag" : "P",
+          "id" : 24,
+          "page number" : 2,
+          "bounding box" : [ 82.05, 499.058, 233.168, 538.78 ],
+          "font" : "LiberationSansNarrow-Bold",
+          "font size" : 11.0,
+          "text color" : "[0.0, 0.0, 0.0]",
+          "content" : "Resultados de aprendizaje del perfil de Egreso al que aporta la asignatura:"
+        } ]
+      }, {
+        "type" : "table cell",
+        "pdfua_tag" : "TD",
+        "page number" : 2,
+        "bounding box" : [ 238.6, 496.939, 529.05, 538.139 ],
+        "row number" : 12,
+        "column number" : 2,
+        "row span" : 1,
+        "column span" : 2,
+        "kids" : [ {
+          "type" : "paragraph",
+          "pdfua_tag" : "P",
+          "id" : 25,
+          "page number" : 2,
+          "bounding box" : [ 244.1, 514.358, 518.275, 538.78 ],
+          "font" : "LiberationSansNarrow",
+          "font size" : 11.0,
+          "text color" : "[0.0, 0.0, 0.0]",
+          "content" : "Analizar problemas computacionales y plantear soluciones mediante métodos matemáticos."
+        } ]
+      } ]
+    }, {
+      "type" : "table row",
+      "row number" : 13,
+      "cells" : [ {
+        "type" : "table cell",
+        "pdfua_tag" : "TD",
+        "page number" : 2,
+        "bounding box" : [ 76.85, 461.039, 238.6, 496.939 ],
+        "row number" : 13,
+        "column number" : 1,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "pdfua_tag" : "P",
+          "id" : 26,
+          "page number" : 2,
+          "bounding box" : [ 82.05, 471.358, 217.339, 497.53 ],
+          "font" : "LiberationSansNarrow-Bold",
+          "font size" : 11.0,
+          "text color" : "[0.0, 0.0, 0.0]",
+          "content" : "Competencia/s específica/s a la que aporta la asignatura:"
+        } ]
+      }, {
+        "type" : "table cell",
+        "pdfua_tag" : "TD",
+        "page number" : 2,
+        "bounding box" : [ 238.6, 461.039, 529.05, 496.939 ],
+        "row number" : 13,
+        "column number" : 2,
+        "row span" : 1,
+        "column span" : 2,
+        "kids" : [ {
+          "type" : "paragraph",
+          "pdfua_tag" : "P",
+          "id" : 27,
+          "page number" : 2,
+          "bounding box" : [ 244.1, 461.308, 515.756, 497.53 ],
+          "font" : "LiberationSansNarrow",
+          "font size" : 11.0,
+          "text color" : "[0.0, 0.0, 0.0]",
+          "content" : "Demuestra dominio de conocimientos y habilidades para la solución de problemas mediante la aplicación y creación de algoritmos, modelos matemáticos y métodos de Ciencias de la Computación."
+        } ]
+      } ]
+    }, {
+      "type" : "table row",
+      "row number" : 14,
+      "cells" : [ {
+        "type" : "table cell",
+        "pdfua_tag" : "TD",
+        "page number" : 2,
+        "bounding box" : [ 76.85, 447.089, 238.6, 461.039 ],
+        "row number" : 14,
+        "column number" : 1,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "pdfua_tag" : "P",
+          "id" : 28,
+          "page number" : 2,
+          "bounding box" : [ 82.05, 449.008, 177.211, 461.63 ],
+          "font" : "LiberationSansNarrow-Bold",
+          "font size" : 11.0,
+          "text color" : "[0.0, 0.0, 0.0]",
+          "content" : "Fecha de elaboración:"
+        } ]
+      }, {
+        "type" : "table cell",
+        "pdfua_tag" : "TD",
+        "page number" : 2,
+        "bounding box" : [ 238.6, 447.089, 529.05, 461.039 ],
+        "row number" : 14,
+        "column number" : 2,
+        "row span" : 1,
+        "column span" : 2,
+        "kids" : [ {
+          "type" : "paragraph",
+          "pdfua_tag" : "P",
+          "id" : 29,
+          "page number" : 2,
+          "bounding box" : [ 244.1, 449.008, 312.751, 461.63 ],
+          "font" : "LiberationSansNarrow",
+          "font size" : 11.0,
+          "text color" : "[0.0, 0.0, 0.0]",
+          "content" : "Septiembre 2020"
+        } ]
+      } ]
+    } ]
+  }, {
+    "type" : "heading",
+    "pdfua_tag" : "H4",
+    "id" : 41,
+    "level" : "Subtitle",
+    "page number" : 2,
+    "bounding box" : [ 74.8, 399.622, 292.902, 415.687 ],
+    "heading level" : 4,
+    "font" : "LiberationSansNarrow-Bold",
+    "font size" : 14.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "B. Descripción general de la asignatura"
+  }, {
+    "type" : "paragraph",
+    "pdfua_tag" : "P",
+    "id" : 42,
+    "page number" : 2,
+    "bounding box" : [ 92.2, 263.708, 537.139, 377.497 ],
+    "font" : "ArialMT",
+    "font size" : 11.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Esta asignatura permite establecer en el proceso de formación de un ingeniero en Ciencias de la Computación, que la programación es una de las áreas fundamentales, pues, muchas de las actividades profesionales exigen el conocimiento en este campo. Se la dicta en el segundo ciclo, aquí se enseñan las bases metodológicas y técnicas que le permitirán programar en cualquier lenguaje de alto nivel. Además, a través de los nuevos conocimientos, se podrá sentar las bases teóricas y prácticas para lograr los resultados de aprendizaje de asignaturas posteriores; contribuyendo al logro del perfil de egreso y al perfil profesional."
+  }, {
+    "type" : "heading",
+    "pdfua_tag" : "H4",
+    "id" : 43,
+    "level" : "Subtitle",
+    "page number" : 2,
+    "bounding box" : [ 74.8, 212.172, 329.82, 228.237 ],
+    "heading level" : 4,
+    "font" : "LiberationSansNarrow-Bold",
+    "font size" : 14.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "C. Resultados de Aprendizaje de la asignatura"
+  }, {
+    "type" : "list",
+    "pdfua_tag" : "L",
+    "id" : 44,
+    "level" : "2",
+    "page number" : 2,
+    "bounding box" : [ 127.6, 56.486, 547.078, 187.397 ],
+    "numbering style" : "unordered",
+    "number of list items" : 5,
+    "next list id" : 47,
+    "list items" : [ {
+      "type" : "list item",
+      "pdfua_tag" : "LI",
+      "page number" : 2,
+      "bounding box" : [ 127.6, 136.208, 538.718, 187.397 ],
+      "font" : "CourierNewPSMT",
+      "font size" : 11.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "o Analiza y explica el comportamiento de programas que involucran estructuras fundamentales de programación como variables, expresiones, asignaciones, archivos, estructuras de decisión y control, arreglos, funciones, paso de parámetros, y recursividad.",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "pdfua_tag" : "LI",
+      "page number" : 2,
+      "bounding box" : [ 127.6, 109.958, 538.685, 135.847 ],
+      "font" : "CourierNewPSMT",
+      "font size" : 11.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "o Diseña, implementa, prueba, y depura un programa que usa estructuras fundamentales de programación",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "pdfua_tag" : "LI",
+      "page number" : 2,
+      "bounding box" : [ 127.6, 83.708, 547.078, 109.597 ],
+      "font" : "CourierNewPSMT",
+      "font size" : 11.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "o Identifica y previene errores de codificación comunes a nivel lógico y de sintaxis, a través del uso de excepciones",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "pdfua_tag" : "LI",
+      "page number" : 2,
+      "bounding box" : [ 127.6, 70.086, 446.263, 83.347 ],
+      "font" : "CourierNewPSMT",
+      "font size" : 11.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "o Aplica estrategias para la prueba y depuración de programas.",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "pdfua_tag" : "LI",
+      "page number" : 2,
+      "bounding box" : [ 127.6, 56.486, 460.937, 69.747 ],
+      "font" : "CourierNewPSMT",
+      "font size" : 11.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "o Construye, ejecuta y depura programas usando un IDE moderno",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "list",
+    "pdfua_tag" : "L",
+    "id" : 47,
+    "level" : "2",
+    "page number" : 3,
+    "bounding box" : [ 127.6, 702.786, 539.213, 742.297 ],
+    "numbering style" : "unordered",
+    "number of list items" : 2,
+    "previous list id" : 44,
+    "list items" : [ {
+      "type" : "list item",
+      "pdfua_tag" : "LI",
+      "page number" : 3,
+      "bounding box" : [ 127.6, 716.408, 539.213, 742.297 ],
+      "font" : "CourierNewPSMT",
+      "font size" : 11.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "o Aplica estándares de documentación y estilo de programación que contribuyan a la legibilidad y mantenimiento de software",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "pdfua_tag" : "LI",
+      "page number" : 3,
+      "bounding box" : [ 127.6, 702.786, 397.995, 716.047 ],
+      "font" : "CourierNewPSMT",
+      "font size" : 11.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "o Extrae y manipula información de archivos de datos",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "heading",
+    "pdfua_tag" : "H4",
+    "id" : 48,
+    "level" : "Subtitle",
+    "page number" : 3,
+    "bounding box" : [ 74.8, 662.472, 155.884, 678.537 ],
+    "heading level" : 4,
+    "font" : "LiberationSansNarrow-Bold",
+    "font size" : 14.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "D. Contenidos"
+  }, {
+    "type" : "table",
+    "pdfua_tag" : "Table",
+    "id" : 51,
+    "level" : "3",
+    "page number" : 4,
+    "bounding box" : [ 63.95, 54.289, 531.75, 699.489 ],
+    "number of rows" : 10,
+    "number of columns" : 4,
+    "rows" : [ {
+      "type" : "table row",
+      "row number" : 1,
+      "cells" : [ {
+        "type" : "table cell",
+        "pdfua_tag" : "TD",
+        "page number" : 4,
+        "bounding box" : [ 64.45, 643.639, 101.1, 698.989 ],
+        "row number" : 1,
+        "column number" : 1,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "pdfua_tag" : "P",
+          "id" : 1,
+          "page number" : 4,
+          "bounding box" : [ 70.2, 653.808, 95.203, 690.03 ],
+          "font" : "LiberationSansNarrow-Bold",
+          "font size" : 11.0,
+          "text color" : "[0.0, 0.0, 0.0]",
+          "content" : "Nro. de orden"
+        } ]
+      }, {
+        "type" : "table cell",
+        "pdfua_tag" : "TD",
+        "page number" : 4,
+        "bounding box" : [ 101.1, 643.639, 212.8, 698.989 ],
+        "row number" : 1,
+        "column number" : 2,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "pdfua_tag" : "P",
+          "id" : 2,
+          "page number" : 4,
+          "bounding box" : [ 111.95, 665.608, 202.106, 678.23 ],
+          "font" : "LiberationSansNarrow-Bold",
+          "font size" : 11.0,
+          "text color" : "[0.0, 0.0, 0.0]",
+          "content" : "Nombre de la Unidad"
+        } ]
+      }, {
+        "type" : "table cell",
+        "pdfua_tag" : "TD",
+        "page number" : 4,
+        "bounding box" : [ 212.8, 643.639, 460.8, 698.989 ],
+        "row number" : 1,
+        "column number" : 3,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "pdfua_tag" : "P",
+          "id" : 3,
+          "page number" : 4,
+          "bounding box" : [ 268.95, 659.708, 404.723, 684.13 ],
+          "font" : "LiberationSansNarrow-Bold",
+          "font size" : 11.0,
+          "text color" : "[0.0, 0.0, 0.0]",
+          "content" : "Temas y subtemas de la unidad (contenidos)"
+        } ]
+      }, {
+        "type" : "table cell",
+        "pdfua_tag" : "TD",
+        "page number" : 4,
+        "bounding box" : [ 460.8, 643.639, 531.25, 698.989 ],
+        "row number" : 1,
+        "column number" : 4,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "pdfua_tag" : "P",
+          "id" : 4,
+          "page number" : 4,
+          "bounding box" : [ 466.65, 647.908, 525.731, 695.93 ],
+          "font" : "LiberationSansNarrow-Bold",
+          "font size" : 11.0,
+          "text color" : "[0.0, 0.0, 0.0]",
+          "content" : "Número de créditos/ total de horas de la asignatura"
+        } ]
+      } ]
+    }, {
+      "type" : "table row",
+      "row number" : 2,
+      "cells" : [ {
+        "type" : "table cell",
+        "pdfua_tag" : "TD",
+        "page number" : 4,
+        "bounding box" : [ 64.45, 584.139, 101.1, 643.639 ],
+        "row number" : 2,
+        "column number" : 1,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "pdfua_tag" : "P",
+          "id" : 5,
+          "page number" : 4,
+          "bounding box" : [ 80.25, 608.008, 85.266, 620.63 ],
+          "font" : "LiberationSansNarrow",
+          "font size" : 11.0,
+          "text color" : "[0.0, 0.0, 0.0]",
+          "content" : "1"
+        } ]
+      }, {
+        "type" : "table cell",
+        "pdfua_tag" : "TD",
+        "page number" : 4,
+        "bounding box" : [ 101.1, 584.139, 212.8, 643.639 ],
+        "row number" : 2,
+        "column number" : 2,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "pdfua_tag" : "P",
+          "id" : 6,
+          "page number" : 4,
+          "bounding box" : [ 106.6, 602.108, 201.827, 626.53 ],
+          "font" : "LiberationSansNarrow",
+          "font size" : 11.0,
+          "text color" : "[0.0, 0.0, 0.0]",
+          "content" : "Unidad I: Introducción a Programación."
+        } ]
+      }, {
+        "type" : "table cell",
+        "pdfua_tag" : "TD",
+        "page number" : 4,
+        "bounding box" : [ 212.8, 584.139, 460.8, 643.639 ],
+        "row number" : 2,
+        "column number" : 3,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "list",
+          "pdfua_tag" : "L",
+          "id" : 7,
+          "level" : "1",
+          "page number" : 4,
+          "bounding box" : [ 236.25, 584.365, 381.014, 644.23 ],
+          "numbering style" : "unordered",
+          "number of list items" : 5,
+          "list items" : [ {
+            "type" : "list item",
+            "pdfua_tag" : "LI",
+            "page number" : 4,
+            "bounding box" : [ 236.25, 631.565, 303.354, 644.23 ],
+            "font" : "OpenSymbol",
+            "font size" : 11.0,
+            "text color" : "[0.0, 0.0, 0.0]",
+            "content" : " Introducción",
+            "kids" : [ ]
+          }, {
+            "type" : "list item",
+            "pdfua_tag" : "LI",
+            "page number" : 4,
+            "bounding box" : [ 236.25, 619.765, 381.014, 632.43 ],
+            "font" : "OpenSymbol",
+            "font size" : 11.0,
+            "text color" : "[0.0, 0.0, 0.0]",
+            "content" : " Importancia de la programación",
+            "kids" : [ ]
+          }, {
+            "type" : "list item",
+            "pdfua_tag" : "LI",
+            "page number" : 4,
+            "bounding box" : [ 236.25, 607.965, 367.011, 620.63 ],
+            "font" : "OpenSymbol",
+            "font size" : 11.0,
+            "text color" : "[0.0, 0.0, 0.0]",
+            "content" : " Lenguajes de Programación",
+            "kids" : [ ]
+          }, {
+            "type" : "list item",
+            "pdfua_tag" : "LI",
+            "page number" : 4,
+            "bounding box" : [ 236.25, 596.165, 378.517, 608.83 ],
+            "font" : "OpenSymbol",
+            "font size" : 11.0,
+            "text color" : "[0.0, 0.0, 0.0]",
+            "content" : " Metodologías de programación",
+            "kids" : [ ]
+          }, {
+            "type" : "list item",
+            "pdfua_tag" : "LI",
+            "page number" : 4,
+            "bounding box" : [ 236.25, 584.365, 361.467, 597.03 ],
+            "font" : "OpenSymbol",
+            "font size" : 11.0,
+            "text color" : "[0.0, 0.0, 0.0]",
+            "content" : " Entornos de Programación",
+            "kids" : [ ]
+          } ]
+        } ]
+      }, {
+        "type" : "table cell",
+        "pdfua_tag" : "TD",
+        "page number" : 4,
+        "bounding box" : [ 460.8, 229.439, 531.25, 643.639 ],
+        "row number" : 2,
+        "column number" : 4,
+        "row span" : 6,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "pdfua_tag" : "P",
+          "id" : 8,
+          "page number" : 4,
+          "bounding box" : [ 484.95, 412.958, 507.511, 425.58 ],
+          "font" : "LiberationSansNarrow",
+          "font size" : 11.0,
+          "text color" : "[0.0, 0.0, 0.0]",
+          "content" : "3/144"
+        } ]
+      } ]
+    }, {
+      "type" : "table row",
+      "row number" : 3,
+      "cells" : [ {
+        "type" : "table cell",
+        "pdfua_tag" : "TD",
+        "page number" : 4,
+        "bounding box" : [ 64.45, 512.839, 101.1, 584.139 ],
+        "row number" : 3,
+        "column number" : 1,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "pdfua_tag" : "P",
+          "id" : 9,
+          "page number" : 4,
+          "bounding box" : [ 80.25, 542.608, 85.266, 555.23 ],
+          "font" : "LiberationSansNarrow",
+          "font size" : 11.0,
+          "text color" : "[0.0, 0.0, 0.0]",
+          "content" : "2"
+        } ]
+      }, {
+        "type" : "table cell",
+        "pdfua_tag" : "TD",
+        "page number" : 4,
+        "bounding box" : [ 101.1, 512.839, 212.8, 584.139 ],
+        "row number" : 3,
+        "column number" : 2,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "pdfua_tag" : "P",
+          "id" : 10,
+          "page number" : 4,
+          "bounding box" : [ 106.6, 536.708, 203.829, 561.13 ],
+          "font" : "LiberationSansNarrow",
+          "font size" : 11.0,
+          "text color" : "[0.0, 0.0, 0.0]",
+          "content" : "Unidad II: Entornos modernos de desarrollo."
+        } ]
+      }, {
+        "type" : "table cell",
+        "pdfua_tag" : "TD",
+        "page number" : 4,
+        "bounding box" : [ 212.8, 512.839, 460.8, 584.139 ],
+        "row number" : 3,
+        "column number" : 3,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "list",
+          "pdfua_tag" : "L",
+          "id" : 11,
+          "level" : "1",
+          "page number" : 4,
+          "bounding box" : [ 236.25, 513.108, 450.732, 584.73 ],
+          "numbering style" : "unordered",
+          "number of list items" : 3,
+          "list items" : [ {
+            "type" : "list item",
+            "pdfua_tag" : "LI",
+            "page number" : 4,
+            "bounding box" : [ 236.25, 560.308, 450.732, 584.73 ],
+            "font" : "OpenSymbol",
+            "font size" : 11.0,
+            "text color" : "[0.0, 0.0, 0.0]",
+            "content" : " Gestión de código fuente a través de software de control de versiones",
+            "kids" : [ ]
+          }, {
+            "type" : "list item",
+            "pdfua_tag" : "LI",
+            "page number" : 4,
+            "bounding box" : [ 236.25, 536.708, 420.141, 561.13 ],
+            "font" : "OpenSymbol",
+            "font size" : 11.0,
+            "text color" : "[0.0, 0.0, 0.0]",
+            "content" : " Entornos de virtualización para pruebas y desarrollo",
+            "kids" : [ ]
+          }, {
+            "type" : "list item",
+            "pdfua_tag" : "LI",
+            "page number" : 4,
+            "bounding box" : [ 236.25, 513.108, 432.714, 537.53 ],
+            "font" : "OpenSymbol",
+            "font size" : 11.0,
+            "text color" : "[0.0, 0.0, 0.0]",
+            "content" : " Introducción Computación en la nube (Cloud Computing)",
+            "kids" : [ ]
+          } ]
+        } ]
+      } ]
+    }, {
+      "type" : "table row",
+      "row number" : 4,
+      "cells" : [ {
+        "type" : "table cell",
+        "pdfua_tag" : "TD",
+        "page number" : 4,
+        "bounding box" : [ 64.45, 429.739, 101.1, 512.839 ],
+        "row number" : 4,
+        "column number" : 1,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "pdfua_tag" : "P",
+          "id" : 12,
+          "page number" : 4,
+          "bounding box" : [ 80.25, 465.408, 85.266, 478.03 ],
+          "font" : "LiberationSansNarrow",
+          "font size" : 11.0,
+          "text color" : "[0.0, 0.0, 0.0]",
+          "content" : "3"
+        } ]
+      }, {
+        "type" : "table cell",
+        "pdfua_tag" : "TD",
+        "page number" : 4,
+        "bounding box" : [ 101.1, 429.739, 212.8, 512.839 ],
+        "row number" : 4,
+        "column number" : 2,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "pdfua_tag" : "P",
+          "id" : 13,
+          "page number" : 4,
+          "bounding box" : [ 106.6, 453.608, 202.839, 489.83 ],
+          "font" : "LiberationSansNarrow",
+          "font size" : 11.0,
+          "text color" : "[0.0, 0.0, 0.0]",
+          "content" : "Unidad III: Sintaxis y Semántica de lenguajes de programación."
+        } ]
+      }, {
+        "type" : "table cell",
+        "pdfua_tag" : "TD",
+        "page number" : 4,
+        "bounding box" : [ 212.8, 429.739, 460.8, 512.839 ],
+        "row number" : 4,
+        "column number" : 3,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "list",
+          "pdfua_tag" : "L",
+          "id" : 14,
+          "level" : "1",
+          "page number" : 4,
+          "bounding box" : [ 236.25, 429.965, 452.767, 513.43 ],
+          "numbering style" : "unordered",
+          "number of list items" : 5,
+          "list items" : [ {
+            "type" : "list item",
+            "pdfua_tag" : "LI",
+            "page number" : 4,
+            "bounding box" : [ 236.25, 500.765, 409.592, 513.43 ],
+            "font" : "OpenSymbol",
+            "font size" : 11.0,
+            "text color" : "[0.0, 0.0, 0.0]",
+            "content" : " Elementos básicos de la programación",
+            "kids" : [ ]
+          }, {
+            "type" : "list item",
+            "pdfua_tag" : "LI",
+            "page number" : 4,
+            "bounding box" : [ 236.25, 477.208, 438.247, 501.63 ],
+            "font" : "OpenSymbol",
+            "font size" : 11.0,
+            "text color" : "[0.0, 0.0, 0.0]",
+            "content" : " Manejo de tipos de datos en lenguajes de alto nivel",
+            "kids" : [ ]
+          }, {
+            "type" : "list item",
+            "pdfua_tag" : "LI",
+            "page number" : 4,
+            "bounding box" : [ 236.25, 453.608, 451.722, 478.03 ],
+            "font" : "OpenSymbol",
+            "font size" : 11.0,
+            "text color" : "[0.0, 0.0, 0.0]",
+            "content" : " Manejo de operadores y expresiones en lenguaje de alto nivel",
+            "kids" : [ ]
+          }, {
+            "type" : "list item",
+            "pdfua_tag" : "LI",
+            "page number" : 4,
+            "bounding box" : [ 236.25, 441.765, 452.767, 454.43 ],
+            "font" : "OpenSymbol",
+            "font size" : 11.0,
+            "text color" : "[0.0, 0.0, 0.0]",
+            "content" : " Creación de programas en lenguajes de alto nivel",
+            "kids" : [ ]
+          }, {
+            "type" : "list item",
+            "pdfua_tag" : "LI",
+            "page number" : 4,
+            "bounding box" : [ 236.25, 429.965, 358.464, 442.63 ],
+            "font" : "OpenSymbol",
+            "font size" : 11.0,
+            "text color" : "[0.0, 0.0, 0.0]",
+            "content" : " Depuración de programas",
+            "kids" : [ ]
+          } ]
+        } ]
+      } ]
+    }, {
+      "type" : "table row",
+      "row number" : 5,
+      "cells" : [ {
+        "type" : "table cell",
+        "pdfua_tag" : "TD",
+        "page number" : 4,
+        "bounding box" : [ 64.45, 346.639, 101.1, 429.739 ],
+        "row number" : 5,
+        "column number" : 1,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "pdfua_tag" : "P",
+          "id" : 15,
+          "page number" : 4,
+          "bounding box" : [ 80.25, 382.308, 85.266, 394.93 ],
+          "font" : "LiberationSansNarrow",
+          "font size" : 11.0,
+          "text color" : "[0.0, 0.0, 0.0]",
+          "content" : "4"
+        } ]
+      }, {
+        "type" : "table cell",
+        "pdfua_tag" : "TD",
+        "page number" : 4,
+        "bounding box" : [ 101.1, 346.639, 212.8, 429.739 ],
+        "row number" : 5,
+        "column number" : 2,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "pdfua_tag" : "P",
+          "id" : 16,
+          "page number" : 4,
+          "bounding box" : [ 106.6, 376.408, 196.767, 400.83 ],
+          "font" : "LiberationSansNarrow",
+          "font size" : 11.0,
+          "text color" : "[0.0, 0.0, 0.0]",
+          "content" : "Unidad IV: Estructuras de control."
+        } ]
+      }, {
+        "type" : "table cell",
+        "pdfua_tag" : "TD",
+        "page number" : 4,
+        "bounding box" : [ 212.8, 346.639, 460.8, 429.739 ],
+        "row number" : 5,
+        "column number" : 3,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "list",
+          "pdfua_tag" : "L",
+          "id" : 17,
+          "level" : "1",
+          "page number" : 4,
+          "bounding box" : [ 236.25, 346.865, 407.029, 430.33 ],
+          "numbering style" : "unordered",
+          "number of list items" : 7,
+          "list items" : [ {
+            "type" : "list item",
+            "pdfua_tag" : "LI",
+            "page number" : 4,
+            "bounding box" : [ 236.25, 417.665, 383.522, 430.33 ],
+            "font" : "OpenSymbol",
+            "font size" : 11.0,
+            "text color" : "[0.0, 0.0, 0.0]",
+            "content" : " Estructuras de selección simple.",
+            "kids" : [ ]
+          }, {
+            "type" : "list item",
+            "pdfua_tag" : "LI",
+            "page number" : 4,
+            "bounding box" : [ 236.25, 405.865, 406.072, 418.53 ],
+            "font" : "OpenSymbol",
+            "font size" : 11.0,
+            "text color" : "[0.0, 0.0, 0.0]",
+            "content" : " Estructuras de selección compuestas.",
+            "kids" : [ ]
+          }, {
+            "type" : "list item",
+            "pdfua_tag" : "LI",
+            "page number" : 4,
+            "bounding box" : [ 236.25, 394.065, 394.071, 406.73 ],
+            "font" : "OpenSymbol",
+            "font size" : 11.0,
+            "text color" : "[0.0, 0.0, 0.0]",
+            "content" : " Estructuras de selección anidadas.",
+            "kids" : [ ]
+          }, {
+            "type" : "list item",
+            "pdfua_tag" : "LI",
+            "page number" : 4,
+            "bounding box" : [ 236.25, 382.265, 407.029, 394.93 ],
+            "font" : "OpenSymbol",
+            "font size" : 11.0,
+            "text color" : "[0.0, 0.0, 0.0]",
+            "content" : " Estructura de control múltiple (switch).",
+            "kids" : [ ]
+          }, {
+            "type" : "list item",
+            "pdfua_tag" : "LI",
+            "page number" : 4,
+            "bounding box" : [ 236.25, 370.465, 368.98, 383.13 ],
+            "font" : "OpenSymbol",
+            "font size" : 11.0,
+            "text color" : "[0.0, 0.0, 0.0]",
+            "content" : " Estructuras repetitivas while.",
+            "kids" : [ ]
+          }, {
+            "type" : "list item",
+            "pdfua_tag" : "LI",
+            "page number" : 4,
+            "bounding box" : [ 236.25, 358.665, 381.982, 371.33 ],
+            "font" : "OpenSymbol",
+            "font size" : 11.0,
+            "text color" : "[0.0, 0.0, 0.0]",
+            "content" : " Estructuras repetitivas do-while.",
+            "kids" : [ ]
+          }, {
+            "type" : "list item",
+            "pdfua_tag" : "LI",
+            "page number" : 4,
+            "bounding box" : [ 236.25, 346.865, 358.926, 359.53 ],
+            "font" : "OpenSymbol",
+            "font size" : 11.0,
+            "text color" : "[0.0, 0.0, 0.0]",
+            "content" : " Estructuras repetitivas for.",
+            "kids" : [ ]
+          } ]
+        } ]
+      } ]
+    }, {
+      "type" : "table row",
+      "row number" : 6,
+      "cells" : [ {
+        "type" : "table cell",
+        "pdfua_tag" : "TD",
+        "page number" : 4,
+        "bounding box" : [ 64.45, 322.539, 101.1, 346.639 ],
+        "row number" : 6,
+        "column number" : 1,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "pdfua_tag" : "P",
+          "id" : 18,
+          "page number" : 4,
+          "bounding box" : [ 80.25, 328.708, 85.266, 341.33 ],
+          "font" : "LiberationSansNarrow",
+          "font size" : 11.0,
+          "text color" : "[0.0, 0.0, 0.0]",
+          "content" : "5"
+        } ]
+      }, {
+        "type" : "table cell",
+        "pdfua_tag" : "TD",
+        "page number" : 4,
+        "bounding box" : [ 101.1, 322.539, 212.8, 346.639 ],
+        "row number" : 6,
+        "column number" : 2,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "pdfua_tag" : "P",
+          "id" : 19,
+          "page number" : 4,
+          "bounding box" : [ 106.6, 322.808, 206.81, 347.23 ],
+          "font" : "LiberationSansNarrow",
+          "font size" : 11.0,
+          "text color" : "[0.0, 0.0, 0.0]",
+          "content" : "Unidad V: Estructuras de Datos"
+        } ]
+      }, {
+        "type" : "table cell",
+        "pdfua_tag" : "TD",
+        "page number" : 4,
+        "bounding box" : [ 212.8, 322.539, 460.8, 346.639 ],
+        "row number" : 6,
+        "column number" : 3,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "list",
+          "pdfua_tag" : "L",
+          "id" : 20,
+          "level" : "1",
+          "page number" : 4,
+          "bounding box" : [ 236.25, 322.765, 361.478, 347.23 ],
+          "numbering style" : "unordered",
+          "number of list items" : 2,
+          "list items" : [ {
+            "type" : "list item",
+            "pdfua_tag" : "LI",
+            "page number" : 4,
+            "bounding box" : [ 236.25, 334.565, 361.478, 347.23 ],
+            "font" : "OpenSymbol",
+            "font size" : 11.0,
+            "text color" : "[0.0, 0.0, 0.0]",
+            "content" : " Arreglos Unidimensionales",
+            "kids" : [ ]
+          }, {
+            "type" : "list item",
+            "pdfua_tag" : "LI",
+            "page number" : 4,
+            "bounding box" : [ 236.25, 322.765, 355.967, 335.43 ],
+            "font" : "OpenSymbol",
+            "font size" : 11.0,
+            "text color" : "[0.0, 0.0, 0.0]",
+            "content" : " Arreglos Bidimensionales",
+            "kids" : [ ]
+          } ]
+        } ]
+      } ]
+    }, {
+      "type" : "table row",
+      "row number" : 7,
+      "cells" : [ {
+        "type" : "table cell",
+        "pdfua_tag" : "TD",
+        "page number" : 4,
+        "bounding box" : [ 64.45, 229.439, 101.1, 322.539 ],
+        "row number" : 7,
+        "column number" : 1,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "pdfua_tag" : "P",
+          "id" : 21,
+          "page number" : 4,
+          "bounding box" : [ 80.25, 270.108, 85.266, 282.73 ],
+          "font" : "LiberationSansNarrow",
+          "font size" : 11.0,
+          "text color" : "[0.0, 0.0, 0.0]",
+          "content" : "6"
+        } ]
+      }, {
+        "type" : "table cell",
+        "pdfua_tag" : "TD",
+        "page number" : 4,
+        "bounding box" : [ 101.1, 229.439, 212.8, 322.539 ],
+        "row number" : 7,
+        "column number" : 2,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "pdfua_tag" : "P",
+          "id" : 22,
+          "page number" : 4,
+          "bounding box" : [ 106.6, 269.208, 192.279, 293.63 ],
+          "font" : "LiberationSansNarrow",
+          "font size" : 11.0,
+          "text color" : "[0.0, 0.0, 0.0]",
+          "content" : "Unidad VI: Módulos y Funciones."
+        } ]
+      }, {
+        "type" : "table cell",
+        "pdfua_tag" : "TD",
+        "page number" : 4,
+        "bounding box" : [ 212.8, 229.439, 460.8, 322.539 ],
+        "row number" : 7,
+        "column number" : 3,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "list",
+          "pdfua_tag" : "L",
+          "id" : 23,
+          "level" : "1",
+          "page number" : 4,
+          "bounding box" : [ 236.25, 239.665, 453.229, 323.13 ],
+          "numbering style" : "unordered",
+          "number of list items" : 6,
+          "list items" : [ {
+            "type" : "list item",
+            "pdfua_tag" : "LI",
+            "page number" : 4,
+            "bounding box" : [ 236.25, 310.465, 303.354, 323.13 ],
+            "font" : "OpenSymbol",
+            "font size" : 11.0,
+            "text color" : "[0.0, 0.0, 0.0]",
+            "content" : " Introducción",
+            "kids" : [ ]
+          }, {
+            "type" : "list item",
+            "pdfua_tag" : "LI",
+            "page number" : 4,
+            "bounding box" : [ 236.25, 286.908, 453.229, 311.33 ],
+            "font" : "OpenSymbol",
+            "font size" : 11.0,
+            "text color" : "[0.0, 0.0, 0.0]",
+            "content" : " Declaración de funciones y métodos en lenguajes de alto nivel",
+            "kids" : [ ]
+          }, {
+            "type" : "list item",
+            "pdfua_tag" : "LI",
+            "page number" : 4,
+            "bounding box" : [ 236.25, 275.065, 407.095, 287.73 ],
+            "font" : "OpenSymbol",
+            "font size" : 11.0,
+            "text color" : "[0.0, 0.0, 0.0]",
+            "content" : " Ámbito de variables locales y globales",
+            "kids" : [ ]
+          }, {
+            "type" : "list item",
+            "pdfua_tag" : "LI",
+            "page number" : 4,
+            "bounding box" : [ 236.25, 263.265, 426.202, 275.93 ],
+            "font" : "OpenSymbol",
+            "font size" : 11.0,
+            "text color" : "[0.0, 0.0, 0.0]",
+            "content" : " Manejo de métodos que no regresan valor.",
+            "kids" : [ ]
+          }, {
+            "type" : "list item",
+            "pdfua_tag" : "LI",
+            "page number" : 4,
+            "bounding box" : [ 236.25, 251.465, 413.629, 264.13 ],
+            "font" : "OpenSymbol",
+            "font size" : 11.0,
+            "text color" : "[0.0, 0.0, 0.0]",
+            "content" : " Manejo de métodos que regresan valor.",
+            "kids" : [ ]
+          }, {
+            "type" : "list item",
+            "pdfua_tag" : "LI",
+            "page number" : 4,
+            "bounding box" : [ 236.25, 239.665, 350.467, 252.33 ],
+            "font" : "OpenSymbol",
+            "font size" : 11.0,
+            "text color" : "[0.0, 0.0, 0.0]",
+            "content" : " Sobrecarga de métodos",
+            "kids" : [ ]
+          } ]
+        } ]
+      } ]
+    }, {
+      "type" : "table row",
+      "row number" : 8,
+      "cells" : [ {
+        "type" : "table cell",
+        "pdfua_tag" : "TD",
+        "page number" : 4,
+        "bounding box" : [ 64.45, 148.139, 101.1, 229.439 ],
+        "row number" : 8,
+        "column number" : 1,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ ]
+      }, {
+        "type" : "table cell",
+        "pdfua_tag" : "TD",
+        "page number" : 4,
+        "bounding box" : [ 101.1, 148.139, 212.8, 229.439 ],
+        "row number" : 8,
+        "column number" : 2,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "pdfua_tag" : "P",
+          "id" : 24,
+          "page number" : 4,
+          "bounding box" : [ 106.6, 182.008, 205.82, 206.43 ],
+          "font" : "LiberationSansNarrow",
+          "font size" : 11.0,
+          "text color" : "[0.0, 0.0, 0.0]",
+          "content" : "Unidad VII: Recursividad y Archivos"
+        } ]
+      }, {
+        "type" : "table cell",
+        "pdfua_tag" : "TD",
+        "page number" : 4,
+        "bounding box" : [ 212.8, 148.139, 460.8, 229.439 ],
+        "row number" : 8,
+        "column number" : 3,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "list",
+          "pdfua_tag" : "L",
+          "id" : 25,
+          "level" : "1",
+          "page number" : 4,
+          "bounding box" : [ 236.25, 158.365, 453.24, 230.03 ],
+          "numbering style" : "unordered",
+          "number of list items" : 6,
+          "list items" : [ {
+            "type" : "list item",
+            "pdfua_tag" : "LI",
+            "page number" : 4,
+            "bounding box" : [ 236.25, 217.365, 453.24, 230.03 ],
+            "font" : "OpenSymbol",
+            "font size" : 11.0,
+            "text color" : "[0.0, 0.0, 0.0]",
+            "content" : " Introducción y conceptos básicos de recursividad.",
+            "kids" : [ ]
+          }, {
+            "type" : "list item",
+            "pdfua_tag" : "LI",
+            "page number" : 4,
+            "bounding box" : [ 236.25, 205.565, 354.955, 218.23 ],
+            "font" : "OpenSymbol",
+            "font size" : 11.0,
+            "text color" : "[0.0, 0.0, 0.0]",
+            "content" : " Recursividad vs Iteración",
+            "kids" : [ ]
+          }, {
+            "type" : "list item",
+            "pdfua_tag" : "LI",
+            "page number" : 4,
+            "bounding box" : [ 236.25, 193.765, 339.929, 206.43 ],
+            "font" : "OpenSymbol",
+            "font size" : 11.0,
+            "text color" : "[0.0, 0.0, 0.0]",
+            "content" : " Tipos de recursividad",
+            "kids" : [ ]
+          }, {
+            "type" : "list item",
+            "pdfua_tag" : "LI",
+            "page number" : 4,
+            "bounding box" : [ 236.25, 181.965, 368.518, 194.63 ],
+            "font" : "OpenSymbol",
+            "font size" : 11.0,
+            "text color" : "[0.0, 0.0, 0.0]",
+            "content" : " Aplicación de la recursividad",
+            "kids" : [ ]
+          }, {
+            "type" : "list item",
+            "pdfua_tag" : "LI",
+            "page number" : 4,
+            "bounding box" : [ 236.25, 170.165, 338.411, 182.83 ],
+            "font" : "OpenSymbol",
+            "font size" : 11.0,
+            "text color" : "[0.0, 0.0, 0.0]",
+            "content" : " Escritura de archivos",
+            "kids" : [ ]
+          }, {
+            "type" : "list item",
+            "pdfua_tag" : "LI",
+            "page number" : 4,
+            "bounding box" : [ 236.25, 158.365, 332.933, 171.03 ],
+            "font" : "OpenSymbol",
+            "font size" : 11.0,
+            "text color" : "[0.0, 0.0, 0.0]",
+            "content" : " Lectura de archivos",
+            "kids" : [ ]
+          } ]
+        } ]
+      }, {
+        "type" : "table cell",
+        "pdfua_tag" : "TD",
+        "page number" : 4,
+        "bounding box" : [ 460.8, 148.139, 531.25, 229.439 ],
+        "row number" : 8,
+        "column number" : 4,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ ]
+      } ]
+    }, {
+      "type" : "table row",
+      "row number" : 9,
+      "cells" : [ {
+        "type" : "table cell",
+        "pdfua_tag" : "TD",
+        "page number" : 4,
+        "bounding box" : [ 64.45, 90.439, 101.1, 148.139 ],
+        "row number" : 9,
+        "column number" : 1,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ ]
+      }, {
+        "type" : "table cell",
+        "pdfua_tag" : "TD",
+        "page number" : 4,
+        "bounding box" : [ 101.1, 90.439, 212.8, 148.139 ],
+        "row number" : 9,
+        "column number" : 2,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "pdfua_tag" : "P",
+          "id" : 26,
+          "page number" : 4,
+          "bounding box" : [ 106.6, 112.508, 193.753, 136.93 ],
+          "font" : "LiberationSansNarrow",
+          "font size" : 11.0,
+          "text color" : "[0.0, 0.0, 0.0]",
+          "content" : "Unidad VIII: Librerías, API ś de desarrollo."
+        } ]
+      }, {
+        "type" : "table cell",
+        "pdfua_tag" : "TD",
+        "page number" : 4,
+        "bounding box" : [ 212.8, 90.439, 460.8, 148.139 ],
+        "row number" : 9,
+        "column number" : 3,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "list",
+          "pdfua_tag" : "L",
+          "id" : 27,
+          "level" : "1",
+          "page number" : 4,
+          "bounding box" : [ 236.25, 100.708, 452.448, 148.73 ],
+          "numbering style" : "unordered",
+          "number of list items" : 2,
+          "list items" : [ {
+            "type" : "list item",
+            "pdfua_tag" : "LI",
+            "page number" : 4,
+            "bounding box" : [ 236.25, 124.308, 450.226, 148.73 ],
+            "font" : "OpenSymbol",
+            "font size" : 11.0,
+            "text color" : "[0.0, 0.0, 0.0]",
+            "content" : " Creación de paquetes y librerías en lenguajes de alto nivel.",
+            "kids" : [ ]
+          }, {
+            "type" : "list item",
+            "pdfua_tag" : "LI",
+            "page number" : 4,
+            "bounding box" : [ 236.25, 100.708, 452.448, 125.13 ],
+            "font" : "OpenSymbol",
+            "font size" : 11.0,
+            "text color" : "[0.0, 0.0, 0.0]",
+            "content" : " Consumo de API's de lenguajes de programación de alto nivel.",
+            "kids" : [ ]
+          } ]
+        } ]
+      }, {
+        "type" : "table cell",
+        "pdfua_tag" : "TD",
+        "page number" : 4,
+        "bounding box" : [ 460.8, 90.439, 531.25, 148.139 ],
+        "row number" : 9,
+        "column number" : 4,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ ]
+      } ]
+    }, {
+      "type" : "table row",
+      "row number" : 10,
+      "cells" : [ {
+        "type" : "table cell",
+        "pdfua_tag" : "TD",
+        "page number" : 4,
+        "bounding box" : [ 64.45, 54.789, 101.1, 90.439 ],
+        "row number" : 10,
+        "column number" : 1,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ ]
+      }, {
+        "type" : "table cell",
+        "pdfua_tag" : "TD",
+        "page number" : 4,
+        "bounding box" : [ 101.1, 54.789, 212.8, 90.439 ],
+        "row number" : 10,
+        "column number" : 2,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "pdfua_tag" : "P",
+          "id" : 28,
+          "page number" : 4,
+          "bounding box" : [ 106.6, 60.708, 207.305, 85.13 ],
+          "font" : "LiberationSansNarrow",
+          "font size" : 11.0,
+          "text color" : "[0.0, 0.0, 0.0]",
+          "content" : "Unidad IX: Programación a la defensiva."
+        } ]
+      }, {
+        "type" : "table cell",
+        "pdfua_tag" : "TD",
+        "page number" : 4,
+        "bounding box" : [ 212.8, 54.789, 460.8, 90.439 ],
+        "row number" : 10,
+        "column number" : 3,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "list",
+          "pdfua_tag" : "L",
+          "id" : 29,
+          "level" : "1",
+          "page number" : 4,
+          "bounding box" : [ 236.25, 54.765, 411.099, 91.03 ],
+          "numbering style" : "unordered",
+          "number of list items" : 3,
+          "list items" : [ {
+            "type" : "list item",
+            "pdfua_tag" : "LI",
+            "page number" : 4,
+            "bounding box" : [ 236.25, 78.365, 411.099, 91.03 ],
+            "font" : "OpenSymbol",
+            "font size" : 11.0,
+            "text color" : "[0.0, 0.0, 0.0]",
+            "content" : " Conceptos de Programación Defensiva",
+            "kids" : [ ]
+          }, {
+            "type" : "list item",
+            "pdfua_tag" : "LI",
+            "page number" : 4,
+            "bounding box" : [ 236.25, 66.565, 337.938, 79.23 ],
+            "font" : "OpenSymbol",
+            "font size" : 11.0,
+            "text color" : "[0.0, 0.0, 0.0]",
+            "content" : " Manejo de Assetions",
+            "kids" : [ ]
+          }, {
+            "type" : "list item",
+            "pdfua_tag" : "LI",
+            "page number" : 4,
+            "bounding box" : [ 236.25, 54.765, 410.175, 67.43 ],
+            "font" : "OpenSymbol",
+            "font size" : 11.0,
+            "text color" : "[0.0, 0.0, 0.0]",
+            "content" : " Introducción al manejo de excepciones",
+            "kids" : [ ]
+          } ]
+        } ]
+      }, {
+        "type" : "table cell",
+        "pdfua_tag" : "TD",
+        "page number" : 4,
+        "bounding box" : [ 460.8, 54.789, 531.25, 90.439 ],
+        "row number" : 10,
+        "column number" : 4,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ ]
+      } ]
+    } ]
+  }, {
+    "type" : "table",
+    "pdfua_tag" : "Table",
+    "id" : 53,
+    "level" : "4",
+    "page number" : 5,
+    "bounding box" : [ 63.95, 694.389, 531.75, 742.589 ],
+    "number of rows" : 1,
+    "number of columns" : 4,
+    "rows" : [ {
+      "type" : "table row",
+      "row number" : 1,
+      "cells" : [ {
+        "type" : "table cell",
+        "pdfua_tag" : "TD",
+        "page number" : 5,
+        "bounding box" : [ 64.2, 694.889, 101.1, 742.089 ],
+        "row number" : 1,
+        "column number" : 1,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ ]
+      }, {
+        "type" : "table cell",
+        "pdfua_tag" : "TD",
+        "page number" : 5,
+        "bounding box" : [ 101.1, 694.889, 212.8, 742.089 ],
+        "row number" : 1,
+        "column number" : 2,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ ]
+      }, {
+        "type" : "table cell",
+        "pdfua_tag" : "TD",
+        "page number" : 5,
+        "bounding box" : [ 212.8, 694.889, 460.8, 742.089 ],
+        "row number" : 1,
+        "column number" : 3,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "list",
+          "pdfua_tag" : "L",
+          "id" : 1,
+          "level" : "1",
+          "page number" : 5,
+          "bounding box" : [ 236.25, 694.958, 445.749, 742.98 ],
+          "numbering style" : "unordered",
+          "number of list items" : 3,
+          "list items" : [ {
+            "type" : "list item",
+            "pdfua_tag" : "LI",
+            "page number" : 5,
+            "bounding box" : [ 236.25, 730.315, 427.61, 742.98 ],
+            "font" : "OpenSymbol",
+            "font size" : 11.0,
+            "text color" : "[0.0, 0.0, 0.0]",
+            "content" : " Estrategias para el Manejo de Excepciones",
+            "kids" : [ ]
+          }, {
+            "type" : "list item",
+            "pdfua_tag" : "LI",
+            "page number" : 5,
+            "bounding box" : [ 236.25, 718.515, 379.584, 731.18 ],
+            "font" : "OpenSymbol",
+            "font size" : 11.0,
+            "text color" : "[0.0, 0.0, 0.0]",
+            "content" : " Diseño de excepciones propias",
+            "kids" : [ ]
+          }, {
+            "type" : "list item",
+            "pdfua_tag" : "LI",
+            "page number" : 5,
+            "bounding box" : [ 236.25, 694.958, 445.749, 719.38 ],
+            "font" : "OpenSymbol",
+            "font size" : 11.0,
+            "text color" : "[0.0, 0.0, 0.0]",
+            "content" : " Ejemplificación de excepciones en lenguajes de alto nivel",
+            "kids" : [ ]
+          } ]
+        } ]
+      }, {
+        "type" : "table cell",
+        "pdfua_tag" : "TD",
+        "page number" : 5,
+        "bounding box" : [ 460.8, 694.889, 531.5, 742.089 ],
+        "row number" : 1,
+        "column number" : 4,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ ]
+      } ]
+    } ]
+  }, {
+    "type" : "heading",
+    "pdfua_tag" : "H4",
+    "id" : 55,
+    "level" : "Subtitle",
+    "page number" : 6,
+    "bounding box" : [ 74.8, 727.622, 160.35, 743.687 ],
+    "heading level" : 4,
+    "font" : "LiberationSansNarrow-Bold",
+    "font size" : 14.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "E. Metodología"
+  }, {
+    "type" : "paragraph",
+    "pdfua_tag" : "P",
+    "id" : 56,
+    "page number" : 6,
+    "bounding box" : [ 92.2, 619.246, 538.612, 715.452 ],
+    "font" : "ArialMT",
+    "font size" : 12.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "En la asignatura de Introducción a la Programación, la metodología de enseñanza tiene como finalidad fomentar una sólida formación en conceptos de Programación; se hará uso de diversas técnicas pedagógicas, tales como: desarrollo de ejercicios guiados, resolución de caso base de estudio, trabajos individuales, trabajos grupales, investigación bibliográfica de contenido. Se promoverá la interacción en el aula con las clases presenciales y tutorías, aplicando metodologías activas para el aprendizaje."
+  }, {
+    "type" : "heading",
+    "pdfua_tag" : "H4",
+    "id" : 57,
+    "level" : "Subtitle",
+    "page number" : 6,
+    "bounding box" : [ 74.8, 574.222, 257.846, 590.287 ],
+    "heading level" : 4,
+    "font" : "LiberationSansNarrow-Bold",
+    "font size" : 14.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "F. Procedimientos de evaluación"
+  }, {
+    "type" : "caption",
+    "id" : 58,
+    "page number" : 6,
+    "bounding box" : [ 92.2, 538.858, 537.607, 563.28 ],
+    "linked content id" : 59,
+    "font" : "LiberationSansNarrow",
+    "font size" : 11.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Para evaluar el logro de los resultados de aprendizaje se considera los parámetros y ponderaciones señalados en el Instructivo del Sistema Interno de Evaluación Estudiantil y que se muestran en la siguiente tabla."
+  }, {
+    "type" : "table",
+    "pdfua_tag" : "Table",
+    "id" : 59,
+    "level" : "5",
+    "page number" : 6,
+    "bounding box" : [ 92.75, 414.589, 510.05, 519.489 ],
+    "number of rows" : 7,
+    "number of columns" : 3,
+    "rows" : [ {
+      "type" : "table row",
+      "row number" : 1,
+      "cells" : [ {
+        "type" : "table cell",
+        "pdfua_tag" : "TD",
+        "page number" : 6,
+        "bounding box" : [ 93.25, 499.439, 184.3, 518.989 ],
+        "row number" : 1,
+        "column number" : 1,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "pdfua_tag" : "P",
+          "id" : 1,
+          "page number" : 6,
+          "bounding box" : [ 116.2, 504.582, 161.254, 514.909 ],
+          "font" : "LiberationSansNarrow-Bold",
+          "font size" : 9.0,
+          "text color" : "[0.0, 0.0, 0.0]",
+          "content" : "Componente"
+        } ]
+      }, {
+        "type" : "table cell",
+        "pdfua_tag" : "TD",
+        "page number" : 6,
+        "bounding box" : [ 184.3, 499.439, 425.3, 518.989 ],
+        "row number" : 1,
+        "column number" : 2,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "pdfua_tag" : "P",
+          "id" : 2,
+          "page number" : 6,
+          "bounding box" : [ 284.2, 504.582, 325.618, 514.909 ],
+          "font" : "LiberationSansNarrow-Bold",
+          "font size" : 9.0,
+          "text color" : "[0.0, 0.0, 0.0]",
+          "content" : "Actividades"
+        } ]
+      }, {
+        "type" : "table cell",
+        "pdfua_tag" : "TD",
+        "page number" : 6,
+        "bounding box" : [ 425.3, 499.439, 509.55, 518.989 ],
+        "row number" : 1,
+        "column number" : 3,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "pdfua_tag" : "P",
+          "id" : 3,
+          "page number" : 6,
+          "bounding box" : [ 442.8, 499.732, 492.399, 519.709 ],
+          "font" : "LiberationSansNarrow-Bold",
+          "font size" : 9.0,
+          "text color" : "[0.0, 0.0, 0.0]",
+          "content" : "Peso (Ponderación)"
+        } ]
+      } ]
+    }, {
+      "type" : "table row",
+      "row number" : 2,
+      "cells" : [ {
+        "type" : "table cell",
+        "pdfua_tag" : "TD",
+        "page number" : 6,
+        "bounding box" : [ 93.25, 455.439, 184.3, 499.439 ],
+        "row number" : 2,
+        "column number" : 1,
+        "row span" : 2,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "pdfua_tag" : "P",
+          "id" : 4,
+          "page number" : 6,
+          "bounding box" : [ 98.95, 472.682, 178.555, 483.009 ],
+          "font" : "LiberationSansNarrow",
+          "font size" : 9.0,
+          "text color" : "[0.0, 0.0, 0.0]",
+          "content" : "Contacto con el docente"
+        } ]
+      }, {
+        "type" : "table cell",
+        "pdfua_tag" : "TD",
+        "page number" : 6,
+        "bounding box" : [ 184.3, 477.439, 425.3, 499.439 ],
+        "row number" : 2,
+        "column number" : 2,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "pdfua_tag" : "P",
+          "id" : 5,
+          "page number" : 6,
+          "bounding box" : [ 189.8, 489.582, 249.65, 499.909 ],
+          "font" : "LiberationSansNarrow",
+          "font size" : 9.0,
+          "text color" : "[0.0, 0.0, 0.0]",
+          "content" : "Evaluación parcial"
+        } ]
+      }, {
+        "type" : "table cell",
+        "pdfua_tag" : "TD",
+        "page number" : 6,
+        "bounding box" : [ 425.3, 455.439, 509.55, 499.439 ],
+        "row number" : 2,
+        "column number" : 3,
+        "row span" : 2,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "pdfua_tag" : "P",
+          "id" : 6,
+          "page number" : 6,
+          "bounding box" : [ 460.25, 472.682, 475.019, 483.009 ],
+          "font" : "LiberationSansNarrow",
+          "font size" : 9.0,
+          "text color" : "[0.0, 0.0, 0.0]",
+          "content" : "35%"
+        } ]
+      } ]
+    }, {
+      "type" : "table row",
+      "row number" : 3,
+      "cells" : [ {
+        "type" : "table cell",
+        "pdfua_tag" : "TD",
+        "page number" : 6,
+        "bounding box" : [ 184.3, 455.439, 425.3, 477.439 ],
+        "row number" : 3,
+        "column number" : 2,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "pdfua_tag" : "P",
+          "id" : 7,
+          "page number" : 6,
+          "bounding box" : [ 189.8, 467.582, 257.849, 477.909 ],
+          "font" : "LiberationSansNarrow",
+          "font size" : 9.0,
+          "text color" : "[0.0, 0.0, 0.0]",
+          "content" : "Evaluación bimestral"
+        } ]
+      } ]
+    }, {
+      "type" : "table row",
+      "row number" : 4,
+      "cells" : [ {
+        "type" : "table cell",
+        "pdfua_tag" : "TD",
+        "page number" : 6,
+        "bounding box" : [ 93.25, 435.139, 184.3, 455.439 ],
+        "row number" : 4,
+        "column number" : 1,
+        "row span" : 2,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "pdfua_tag" : "P",
+          "id" : 8,
+          "page number" : 6,
+          "bounding box" : [ 103.25, 440.532, 174.161, 450.859 ],
+          "font" : "LiberationSansNarrow",
+          "font size" : 9.0,
+          "text color" : "[0.0, 0.0, 0.0]",
+          "content" : "Práctico experimental"
+        } ]
+      }, {
+        "type" : "table cell",
+        "pdfua_tag" : "TD",
+        "page number" : 6,
+        "bounding box" : [ 184.3, 445.339, 425.3, 455.439 ],
+        "row number" : 4,
+        "column number" : 2,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "pdfua_tag" : "P",
+          "id" : 9,
+          "page number" : 6,
+          "bounding box" : [ 189.8, 445.582, 256.607, 455.909 ],
+          "font" : "LiberationSansNarrow",
+          "font size" : 9.0,
+          "text color" : "[0.0, 0.0, 0.0]",
+          "content" : "Talleres individuales"
+        } ]
+      }, {
+        "type" : "table cell",
+        "pdfua_tag" : "TD",
+        "page number" : 6,
+        "bounding box" : [ 425.3, 435.139, 509.55, 455.439 ],
+        "row number" : 4,
+        "column number" : 3,
+        "row span" : 2,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "pdfua_tag" : "P",
+          "id" : 10,
+          "page number" : 6,
+          "bounding box" : [ 460.25, 440.532, 475.019, 450.859 ],
+          "font" : "LiberationSansNarrow",
+          "font size" : 9.0,
+          "text color" : "[0.0, 0.0, 0.0]",
+          "content" : "35%"
+        } ]
+      } ]
+    }, {
+      "type" : "table row",
+      "row number" : 5,
+      "cells" : [ {
+        "type" : "table cell",
+        "pdfua_tag" : "TD",
+        "page number" : 6,
+        "bounding box" : [ 184.3, 435.139, 425.3, 445.339 ],
+        "row number" : 5,
+        "column number" : 2,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "pdfua_tag" : "P",
+          "id" : 11,
+          "page number" : 6,
+          "bounding box" : [ 189.8, 435.432, 256.634, 445.759 ],
+          "font" : "LiberationSansNarrow",
+          "font size" : 9.0,
+          "text color" : "[0.0, 0.0, 0.0]",
+          "content" : "Trabajo colaborativo"
+        } ]
+      } ]
+    }, {
+      "type" : "table row",
+      "row number" : 6,
+      "cells" : [ {
+        "type" : "table cell",
+        "pdfua_tag" : "TD",
+        "page number" : 6,
+        "bounding box" : [ 93.25, 415.089, 184.3, 435.139 ],
+        "row number" : 6,
+        "column number" : 1,
+        "row span" : 2,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "pdfua_tag" : "P",
+          "id" : 12,
+          "page number" : 6,
+          "bounding box" : [ 121.95, 420.232, 155.565, 430.559 ],
+          "font" : "LiberationSansNarrow",
+          "font size" : 9.0,
+          "text color" : "[0.0, 0.0, 0.0]",
+          "content" : "Autónomo"
+        } ]
+      }, {
+        "type" : "table cell",
+        "pdfua_tag" : "TD",
+        "page number" : 6,
+        "bounding box" : [ 184.3, 425.039, 425.3, 435.139 ],
+        "row number" : 6,
+        "column number" : 2,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "pdfua_tag" : "P",
+          "id" : 13,
+          "page number" : 6,
+          "bounding box" : [ 189.8, 425.282, 250.865, 435.609 ],
+          "font" : "LiberationSansNarrow",
+          "font size" : 9.0,
+          "text color" : "[0.0, 0.0, 0.0]",
+          "content" : "Proyecto bimestral"
+        } ]
+      }, {
+        "type" : "table cell",
+        "pdfua_tag" : "TD",
+        "page number" : 6,
+        "bounding box" : [ 425.3, 415.089, 509.55, 435.139 ],
+        "row number" : 6,
+        "column number" : 3,
+        "row span" : 2,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "pdfua_tag" : "P",
+          "id" : 14,
+          "page number" : 6,
+          "bounding box" : [ 460.25, 420.232, 475.019, 430.559 ],
+          "font" : "LiberationSansNarrow",
+          "font size" : 9.0,
+          "text color" : "[0.0, 0.0, 0.0]",
+          "content" : "30%"
+        } ]
+      } ]
+    }, {
+      "type" : "table row",
+      "row number" : 7,
+      "cells" : [ {
+        "type" : "table cell",
+        "pdfua_tag" : "TD",
+        "page number" : 6,
+        "bounding box" : [ 184.3, 415.089, 425.3, 425.039 ],
+        "row number" : 7,
+        "column number" : 2,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "pdfua_tag" : "P",
+          "id" : 15,
+          "page number" : 6,
+          "bounding box" : [ 189.8, 415.132, 262.79, 425.459 ],
+          "font" : "LiberationSansNarrow",
+          "font size" : 9.0,
+          "text color" : "[0.0, 0.0, 0.0]",
+          "content" : "Consulta de temáticas"
+        } ]
+      } ]
+    } ]
+  }, {
+    "type" : "heading",
+    "pdfua_tag" : "H4",
+    "id" : 60,
+    "level" : "Subtitle",
+    "page number" : 6,
+    "bounding box" : [ 74.8, 352.722, 159.678, 368.787 ],
+    "heading level" : 4,
+    "font" : "LiberationSansNarrow-Bold",
+    "font size" : 14.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "G. Bibliografía:"
+  }, {
+    "type" : "paragraph",
+    "pdfua_tag" : "P",
+    "id" : 61,
+    "level" : "6",
+    "page number" : 6,
+    "bounding box" : [ 110.8, 329.115, 160.854, 341.78 ],
+    "font" : "LiberationSansNarrow-Bold",
+    "font size" : 11.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : " Básica:"
+  }, {
+    "type" : "list",
+    "pdfua_tag" : "L",
+    "id" : 62,
+    "level" : "7",
+    "page number" : 6,
+    "bounding box" : [ 146.8, 271.846, 538.036, 328.752 ],
+    "numbering style" : "unordered",
+    "number of list items" : 2,
+    "list items" : [ {
+      "type" : "list item",
+      "pdfua_tag" : "LI",
+      "page number" : 6,
+      "bounding box" : [ 146.8, 300.496, 537.892, 328.752 ],
+      "font" : "CourierNewPSMT",
+      "font size" : 12.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "o Dietel, P. y Dietel, H. (2016). Java Como Programar. México: Pearson Prentice Hall.",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "pdfua_tag" : "LI",
+      "page number" : 6,
+      "bounding box" : [ 146.8, 271.846, 538.036, 300.102 ],
+      "font" : "CourierNewPSMT",
+      "font size" : 12.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "o López Román, Leobardo. (2013) Metodología programación orientada a objetos. México",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "paragraph",
+    "pdfua_tag" : "P",
+    "id" : 63,
+    "level" : "6",
+    "page number" : 6,
+    "bounding box" : [ 110.8, 248.215, 202.412, 260.88 ],
+    "font" : "LiberationSansNarrow-Bold",
+    "font size" : 11.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : " Complementaria:"
+  }, {
+    "type" : "list",
+    "pdfua_tag" : "L",
+    "id" : 64,
+    "level" : "7",
+    "page number" : 6,
+    "bounding box" : [ 146.8, 147.446, 538.312, 247.852 ],
+    "numbering style" : "unordered",
+    "number of list items" : 4,
+    "list items" : [ {
+      "type" : "list item",
+      "pdfua_tag" : "LI",
+      "page number" : 6,
+      "bounding box" : [ 146.8, 233.385, 494.584, 247.852 ],
+      "font" : "CourierNewPSMT",
+      "font size" : 12.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "o Cadenhead, Roger (2014). PROGRAMACIÓN JAVA 8. Anaya",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "pdfua_tag" : "LI",
+      "page number" : 6,
+      "bounding box" : [ 146.8, 204.746, 538.0, 233.002 ],
+      "font" : "CourierNewPSMT",
+      "font size" : 12.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "o Fernández, Arturo (2013). Python 3 al descubierto. Segunda. Edición. Rc Libros",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "pdfua_tag" : "LI",
+      "page number" : 6,
+      "bounding box" : [ 146.8, 176.096, 538.144, 204.352 ],
+      "font" : "CourierNewPSMT",
+      "font size" : 12.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "o Joyanes A, Luis (2011). Programación en Java 6 Algoritmos, POO e Interfaz Gráfica de Usuario. México. McGraw-Hill",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "pdfua_tag" : "LI",
+      "page number" : 6,
+      "bounding box" : [ 146.8, 147.446, 538.312, 175.702 ],
+      "font" : "CourierNewPSMT",
+      "font size" : 12.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "o Thomas, Erl (2013). Cloud computing: concepts, technology & architecture. New Jersey. Prentice Hall",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "heading",
+    "pdfua_tag" : "H4",
+    "id" : 65,
+    "level" : "Subtitle",
+    "page number" : 6,
+    "bounding box" : [ 74.8, 108.872, 232.996, 124.937 ],
+    "heading level" : 4,
+    "font" : "LiberationSansNarrow-Bold",
+    "font size" : 14.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "H. Elaboración y aprobación"
+  }, {
+    "type" : "table",
+    "pdfua_tag" : "Table",
+    "id" : 68,
+    "level" : "8",
+    "page number" : 7,
+    "bounding box" : [ 84.15, 489.789, 518.05, 734.289 ],
+    "number of rows" : 5,
+    "number of columns" : 4,
+    "rows" : [ {
+      "type" : "table row",
+      "row number" : 1,
+      "cells" : [ {
+        "type" : "table cell",
+        "pdfua_tag" : "TD",
+        "page number" : 7,
+        "bounding box" : [ 84.65, 718.839, 154.3, 733.789 ],
+        "row number" : 1,
+        "column number" : 1,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "pdfua_tag" : "P",
+          "id" : 1,
+          "page number" : 7,
+          "bounding box" : [ 91.35, 720.72, 147.43, 731.892 ],
+          "font" : "Arial-BoldMT",
+          "font size" : 10.0,
+          "text color" : "[0.0, 0.0, 0.0]",
+          "content" : "Actividades"
+        } ]
+      }, {
+        "type" : "table cell",
+        "pdfua_tag" : "TD",
+        "page number" : 7,
+        "bounding box" : [ 154.3, 718.839, 281.7, 733.789 ],
+        "row number" : 1,
+        "column number" : 2,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "pdfua_tag" : "P",
+          "id" : 2,
+          "page number" : 7,
+          "bounding box" : [ 199.2, 720.72, 236.94, 731.892 ],
+          "font" : "Arial-BoldMT",
+          "font size" : 10.0,
+          "text color" : "[0.0, 0.0, 0.0]",
+          "content" : "Nombre"
+        } ]
+      }, {
+        "type" : "table cell",
+        "pdfua_tag" : "TD",
+        "page number" : 7,
+        "bounding box" : [ 281.7, 718.839, 412.1, 733.789 ],
+        "row number" : 1,
+        "column number" : 3,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "pdfua_tag" : "P",
+          "id" : 3,
+          "page number" : 7,
+          "bounding box" : [ 327.55, 720.72, 366.39, 731.892 ],
+          "font" : "Arial-BoldMT",
+          "font size" : 10.0,
+          "text color" : "[0.0, 0.0, 0.0]",
+          "content" : "Función"
+        } ]
+      }, {
+        "type" : "table cell",
+        "pdfua_tag" : "TD",
+        "page number" : 7,
+        "bounding box" : [ 412.1, 718.839, 517.55, 733.789 ],
+        "row number" : 1,
+        "column number" : 4,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "pdfua_tag" : "P",
+          "id" : 4,
+          "page number" : 7,
+          "bounding box" : [ 451.45, 720.72, 478.64, 731.892 ],
+          "font" : "Arial-BoldMT",
+          "font size" : 10.0,
+          "text color" : "[0.0, 0.0, 0.0]",
+          "content" : "Firma"
+        } ]
+      } ]
+    }, {
+      "type" : "table row",
+      "row number" : 2,
+      "cells" : [ {
+        "type" : "table cell",
+        "pdfua_tag" : "TD",
+        "page number" : 7,
+        "bounding box" : [ 84.65, 661.639, 154.3, 718.839 ],
+        "row number" : 2,
+        "column number" : 1,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "pdfua_tag" : "P",
+          "id" : 5,
+          "page number" : 7,
+          "bounding box" : [ 89.85, 685.644, 138.218, 694.581 ],
+          "font" : "Arial-BoldMT",
+          "font size" : 8.0,
+          "text color" : "[0.0, 0.0, 0.0]",
+          "content" : "Elaboración:"
+        } ]
+      }, {
+        "type" : "table cell",
+        "pdfua_tag" : "TD",
+        "page number" : 7,
+        "bounding box" : [ 154.3, 661.639, 281.7, 718.839 ],
+        "row number" : 2,
+        "column number" : 2,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "pdfua_tag" : "P",
+          "id" : 6,
+          "page number" : 7,
+          "bounding box" : [ 159.75, 685.644, 260.174, 694.581 ],
+          "font" : "ArialMT",
+          "font size" : 8.0,
+          "text color" : "[0.0, 0.0, 0.0]",
+          "content" : "Pedro Daniel Irene Robalino"
+        } ]
+      }, {
+        "type" : "table cell",
+        "pdfua_tag" : "TD",
+        "page number" : 7,
+        "bounding box" : [ 281.7, 661.639, 412.1, 718.839 ],
+        "row number" : 2,
+        "column number" : 3,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "pdfua_tag" : "P",
+          "id" : 7,
+          "page number" : 7,
+          "bounding box" : [ 287.15, 685.644, 393.326, 694.581 ],
+          "font" : "ArialMT",
+          "font size" : 8.0,
+          "text color" : "[0.0, 0.0, 0.0]",
+          "content" : "Equipo de Gestión de Calidad"
+        } ]
+      }, {
+        "type" : "table cell",
+        "pdfua_tag" : "TD",
+        "page number" : 7,
+        "bounding box" : [ 412.1, 661.639, 517.55, 718.839 ],
+        "row number" : 2,
+        "column number" : 4,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ ]
+      } ]
+    }, {
+      "type" : "table row",
+      "row number" : 3,
+      "cells" : [ {
+        "type" : "table cell",
+        "pdfua_tag" : "TD",
+        "page number" : 7,
+        "bounding box" : [ 84.65, 604.439, 154.3, 661.639 ],
+        "row number" : 3,
+        "column number" : 1,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "pdfua_tag" : "P",
+          "id" : 8,
+          "page number" : 7,
+          "bounding box" : [ 89.85, 628.444, 125.794, 637.381 ],
+          "font" : "Arial-BoldMT",
+          "font size" : 8.0,
+          "text color" : "[0.0, 0.0, 0.0]",
+          "content" : "Revisión:"
+        } ]
+      }, {
+        "type" : "table cell",
+        "pdfua_tag" : "TD",
+        "page number" : 7,
+        "bounding box" : [ 154.3, 604.439, 281.7, 661.639 ],
+        "row number" : 3,
+        "column number" : 2,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "pdfua_tag" : "P",
+          "id" : 9,
+          "page number" : 7,
+          "bounding box" : [ 159.75, 628.444, 262.814, 637.381 ],
+          "font" : "ArialMT",
+          "font size" : 8.0,
+          "text color" : "[0.0, 0.0, 0.0]",
+          "content" : "María Belén Mora Arciniegas"
+        } ]
+      }, {
+        "type" : "table cell",
+        "pdfua_tag" : "TD",
+        "page number" : 7,
+        "bounding box" : [ 281.7, 604.439, 412.1, 661.639 ],
+        "row number" : 3,
+        "column number" : 3,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "pdfua_tag" : "P",
+          "id" : 10,
+          "page number" : 7,
+          "bounding box" : [ 287.15, 623.844, 375.598, 641.981 ],
+          "font" : "ArialMT",
+          "font size" : 8.0,
+          "text color" : "[0.0, 0.0, 0.0]",
+          "content" : "Responsable de Sección Departamental"
+        } ]
+      }, {
+        "type" : "table cell",
+        "pdfua_tag" : "TD",
+        "page number" : 7,
+        "bounding box" : [ 412.1, 604.439, 517.55, 661.639 ],
+        "row number" : 3,
+        "column number" : 4,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ ]
+      } ]
+    }, {
+      "type" : "table row",
+      "row number" : 4,
+      "cells" : [ {
+        "type" : "table cell",
+        "pdfua_tag" : "TD",
+        "page number" : 7,
+        "bounding box" : [ 84.65, 547.239, 154.3, 604.439 ],
+        "row number" : 4,
+        "column number" : 1,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "pdfua_tag" : "P",
+          "id" : 11,
+          "page number" : 7,
+          "bounding box" : [ 89.85, 571.244, 136.882, 580.181 ],
+          "font" : "Arial-BoldMT",
+          "font size" : 8.0,
+          "text color" : "[0.0, 0.0, 0.0]",
+          "content" : "Aprobación:"
+        } ]
+      }, {
+        "type" : "table cell",
+        "pdfua_tag" : "TD",
+        "page number" : 7,
+        "bounding box" : [ 154.3, 547.239, 281.7, 604.439 ],
+        "row number" : 4,
+        "column number" : 2,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "pdfua_tag" : "P",
+          "id" : 12,
+          "page number" : 7,
+          "bounding box" : [ 159.75, 571.244, 273.894, 580.181 ],
+          "font" : "ArialMT",
+          "font size" : 8.0,
+          "text color" : "[0.0, 0.0, 0.0]",
+          "content" : "Ramiro Alberto Correa Jaramillo"
+        } ]
+      }, {
+        "type" : "table cell",
+        "pdfua_tag" : "TD",
+        "page number" : 7,
+        "bounding box" : [ 281.7, 547.239, 412.1, 604.439 ],
+        "row number" : 4,
+        "column number" : 3,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "pdfua_tag" : "P",
+          "id" : 13,
+          "page number" : 7,
+          "bounding box" : [ 287.15, 566.644, 403.11, 584.781 ],
+          "font" : "ArialMT",
+          "font size" : 8.0,
+          "text color" : "[0.0, 0.0, 0.0]",
+          "content" : "Director de Área (con informe de la sección departamental)"
+        } ]
+      }, {
+        "type" : "table cell",
+        "pdfua_tag" : "TD",
+        "page number" : 7,
+        "bounding box" : [ 412.1, 547.239, 517.55, 604.439 ],
+        "row number" : 4,
+        "column number" : 4,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ ]
+      } ]
+    }, {
+      "type" : "table row",
+      "row number" : 5,
+      "cells" : [ {
+        "type" : "table cell",
+        "pdfua_tag" : "TD",
+        "page number" : 7,
+        "bounding box" : [ 84.65, 490.289, 281.7, 547.239 ],
+        "row number" : 5,
+        "column number" : 1,
+        "row span" : 1,
+        "column span" : 2,
+        "kids" : [ {
+          "type" : "paragraph",
+          "pdfua_tag" : "P",
+          "id" : 14,
+          "page number" : 7,
+          "bounding box" : [ 89.85, 514.044, 171.578, 522.981 ],
+          "font" : "Arial-BoldMT",
+          "font size" : 8.0,
+          "text color" : "[0.0, 0.0, 0.0]",
+          "content" : "Fecha de elaboración"
+        } ]
+      }, {
+        "type" : "table cell",
+        "pdfua_tag" : "TD",
+        "page number" : 7,
+        "bounding box" : [ 281.7, 490.289, 517.55, 547.239 ],
+        "row number" : 5,
+        "column number" : 3,
+        "row span" : 1,
+        "column span" : 2,
+        "kids" : [ {
+          "type" : "paragraph",
+          "pdfua_tag" : "P",
+          "id" : 15,
+          "page number" : 7,
+          "bounding box" : [ 287.15, 514.044, 348.014, 522.981 ],
+          "font" : "ArialMT",
+          "font size" : 8.0,
+          "text color" : "[0.0, 0.0, 0.0]",
+          "content" : "Septiembre 2020"
+        } ]
+      } ]
+    } ]
+  } ]
+}

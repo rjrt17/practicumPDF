@@ -1,0 +1,91 @@
+{
+    "archivo": "DSOF_1067-O20F21.pdf",
+    "fecha_procesamiento": "2026-06-17T22:36:08.506433+00:00",
+    "metadatos": {
+        "asignatura": "Introducción a la programación",
+        "codigo": "DSOF_1067",
+        "carrera": "Computación",
+        "facultad": "",
+        "area": "Técnica",
+        "modalidad": "Presencial",
+        "seccion": "Tecnologías avanzadas de la web y Sistemas basados en el conocimiento",
+        "campo_formacion": "Fundamentos teóricos",
+        "creditos": "Crédito: 3",
+        "horas": "",
+        "periodo": "Primero",
+        "pre_requisitos": "-",
+        "correquisitos": "-",
+        "unidad_curricular": "",
+        "importancia": "",
+        "docente_principal": ""
+    },
+    "docentes": [],
+    "competencias_genericas": [],
+    "competencias_especificas": [],
+    "resultados_aprendizaje": [
+        "o Analiza y explica el comportamiento de programas que involucran estructuras fundamentales de programación como variables, expresiones, asignaciones, archivos, estructuras de decisión y control, arreglos, funciones, paso de parámetros, y recursividad.",
+        "o Diseña, implementa, prueba, y depura un programa que usa estructuras fundamentales de programación",
+        "o Identifica y previene errores de codificación comunes a nivel lógico y de sintaxis, a través del uso de excepciones",
+        "o Aplica estrategias para la prueba y depuración de programas.",
+        "o Construye, ejecuta y depura programas usando un IDE moderno",
+        "o Aplica estándares de documentación y estilo de programación que contribuyan a la legibilidad y mantenimiento de software",
+        "o Extrae y manipula información de archivos de datos"
+    ],
+    "semanas": [],
+    "evaluacion": [
+        {
+            "descripcion": "Componente"
+        },
+        {
+            "descripcion": "Actividades"
+        },
+        {
+            "descripcion": "Peso\n(Ponderación)"
+        },
+        {
+            "descripcion": "Contacto con el docente"
+        },
+        {
+            "descripcion": "Evaluación parcial"
+        },
+        {
+            "descripcion": "35%"
+        },
+        {
+            "descripcion": "Evaluación bimestral"
+        },
+        {
+            "descripcion": "Práctico experimental"
+        },
+        {
+            "descripcion": "Talleres individuales"
+        },
+        {
+            "descripcion": "Trabajo colaborativo"
+        },
+        {
+            "descripcion": "Autónomo"
+        },
+        {
+            "descripcion": "Proyecto bimestral"
+        },
+        {
+            "descripcion": "30%"
+        },
+        {
+            "descripcion": "Consulta de temáticas"
+        }
+    ],
+    "bibliografia": [
+        "o Dietel, P. y Dietel, H. (2016). Java Como Programar. México: Pearson Prentice Hall.",
+        "o López Román, Leobardo. (2013) Metodología programación orientada a objetos. México",
+        "o Cadenhead, Roger (2014). PROGRAMACIÓN JAVA 8. Anaya",
+        "o Fernández, Arturo (2013). Python 3 al descubierto. Segunda. Edición. Rc Libros",
+        "o Joyanes A, Luis (2011). Programación en Java 6 Algoritmos, POO e Interfaz Gráfica de Usuario. México. McGraw-Hill",
+        "o Thomas, Erl (2013). Cloud computing: concepts, technology & architecture. New Jersey. Prentice Hall"
+    ],
+    "fechas": [],
+    "emails": [],
+    "urls": [],
+    "texto_completo": "UNIVERSIDAD TÉCNICA PARTICULAR DE LOJA\nMODALIDAD PRESENCIAL\nÁREA ACADÉMICA: Técnica\nCARRERA: Computación\nPROGRAMA DE ASIGNATURA: Introducción a la programación\nLoja – Ecuador\n2020\nA. Datos de identificación de la asignatura\nAsignatura:\nIntroducción a la programación\nModalidad de estudio:\nPresencial\nÁrea Académica:\nTécnica\nSección Departamental:\nTecnologías avanzadas de la web y Sistemas basados en el\nconocimiento\nNombre de la Carrera:\nComputación\nCampo de formación del currículo:\nFundamentos teóricos\nPeríodo Académico:\nPrimero\nNúmero de crédito horas:\nCrédito: 3\nHoras: 144\nCódigo:\nDSOF_1067\nPre-requisitos:\n-\nCorrequisitos:\n-\nResultados de aprendizaje del\nperfil de Egreso al que aporta la\nasignatura:\nAnalizar problemas computacionales y plantear soluciones mediante\nmétodos matemáticos.\nCompetencia/s específica/s a la\nque aporta la asignatura:\nDemuestra dominio de conocimientos y habilidades para la solución\nde problemas mediante la aplicación y creación de algoritmos,\nmodelos matemáticos y métodos de Ciencias de la Computación.\nFecha de elaboración:\nSeptiembre 2020\nB. Descripción general de la asignatura\nEsta asignatura permite establecer en el proceso de formación de un ingeniero en Ciencias de la Computación, que la programación es una de las áreas fundamentales, pues, muchas de las actividades profesionales exigen el conocimiento en este campo. Se la dicta en el segundo ciclo, aquí se enseñan las bases metodológicas y técnicas que le permitirán programar en cualquier lenguaje de alto nivel. Además, a través de los nuevos conocimientos, se podrá sentar las bases teóricas y prácticas para lograr los resultados de aprendizaje de asignaturas posteriores; contribuyendo al logro del perfil de egreso y al perfil profesional.\nC. Resultados de Aprendizaje de la asignatura\no Analiza y explica el comportamiento de programas que involucran estructuras fundamentales de programación como variables, expresiones, asignaciones, archivos, estructuras de decisión y control, arreglos, funciones, paso de parámetros, y recursividad.\no Diseña, implementa, prueba, y depura un programa que usa estructuras fundamentales de programación\no Identifica y previene errores de codificación comunes a nivel lógico y de sintaxis, a través del uso de excepciones\no Aplica estrategias para la prueba y depuración de programas.\no Construye, ejecuta y depura programas usando un IDE moderno\no Aplica estándares de documentación y estilo de programación que contribuyan a la legibilidad y mantenimiento de software\no Extrae y manipula información de archivos de datos\nD. Contenidos\nNro.\nde\norden\nNombre de la Unidad\nTemas y subtemas de la unidad\n(contenidos)\nNúmero de\ncréditos/ total\nde horas de\nla asignatura\n1\nUnidad I: Introducción a\nProgramación.\n Introducción\n Importancia de la programación\n Lenguajes de Programación\n Metodologías de programación\n Entornos de Programación\n3/144\n2\nUnidad II: Entornos\nmodernos de desarrollo.\n Gestión de código fuente a través de software de\ncontrol de versiones\n Entornos de virtualización para pruebas y\ndesarrollo\n Introducción Computación en la nube (Cloud\nComputing)\n3\nUnidad III: Sintaxis y\nSemántica de lenguajes\nde programación.\n Elementos básicos de la programación\n Manejo de tipos de datos en lenguajes de alto\nnivel\n Manejo de operadores y expresiones en lenguaje\nde alto nivel\n Creación de programas en lenguajes de alto nivel\n Depuración de programas\n4\nUnidad IV: Estructuras\nde control.\n Estructuras de selección simple.\n Estructuras de selección compuestas.\n Estructuras de selección anidadas.\n Estructura de control múltiple (switch).\n Estructuras repetitivas while.\n Estructuras repetitivas do-while.\n Estructuras repetitivas for.\n5\nUnidad V: Estructuras de\nDatos\n Arreglos Unidimensionales\n Arreglos Bidimensionales\n6\nUnidad VI: Módulos y\nFunciones.\n Introducción\n Declaración de funciones y métodos en lenguajes\nde alto nivel\n Ámbito de variables locales y globales\n Manejo de métodos que no regresan valor.\n Manejo de métodos que regresan valor.\n Sobrecarga de métodos\nUnidad VII: Recursividad\ny Archivos\n Introducción y conceptos básicos de recursividad.\n Recursividad vs Iteración\n Tipos de recursividad\n Aplicación de la recursividad\n Escritura de archivos\n Lectura de archivos\nUnidad VIII: Librerías,\nAPI ś de desarrollo.\n Creación de paquetes y librerías en lenguajes de\nalto nivel.\n Consumo de API's de lenguajes de programación\nde alto nivel.\nUnidad IX: Programación\na la defensiva.\n Conceptos de Programación Defensiva\n Manejo de Assetions\n Introducción al manejo de excepciones\n Estrategias para el Manejo de Excepciones\n Diseño de excepciones propias\n Ejemplificación de excepciones en lenguajes de\nalto nivel\nE. Metodología\nEn la asignatura de Introducción a la Programación, la metodología de enseñanza tiene como finalidad fomentar una sólida formación en conceptos de Programación; se hará uso de diversas técnicas pedagógicas, tales como: desarrollo de ejercicios guiados, resolución de caso base de estudio, trabajos individuales, trabajos grupales, investigación bibliográfica de contenido. Se promoverá la interacción en el aula con las clases presenciales y tutorías, aplicando metodologías activas para el aprendizaje.\nF. Procedimientos de evaluación\nComponente\nActividades\nPeso\n(Ponderación)\nContacto con el docente\nEvaluación parcial\n35%\nEvaluación bimestral\nPráctico experimental\nTalleres individuales\n35%\nTrabajo colaborativo\nAutónomo\nProyecto bimestral\n30%\nConsulta de temáticas\nG. Bibliografía:\n Básica:\no Dietel, P. y Dietel, H. (2016). Java Como Programar. México: Pearson Prentice Hall.\no López Román, Leobardo. (2013) Metodología programación orientada a objetos. México\n Complementaria:\no Cadenhead, Roger (2014). PROGRAMACIÓN JAVA 8. Anaya\no Fernández, Arturo (2013). Python 3 al descubierto. Segunda. Edición. Rc Libros\no Joyanes A, Luis (2011). Programación en Java 6 Algoritmos, POO e Interfaz Gráfica de Usuario. México. McGraw-Hill\no Thomas, Erl (2013). Cloud computing: concepts, technology & architecture. New Jersey. Prentice Hall\nH. Elaboración y aprobación\nActividades\nNombre\nFunción\nFirma\nElaboración:\nPedro Daniel Irene Robalino\nEquipo de Gestión de Calidad\nRevisión:\nMaría Belén Mora Arciniegas\nResponsable de Sección\nDepartamental\nAprobación:\nRamiro Alberto Correa Jaramillo\nDirector de Área (con informe de\nla sección departamental)\nFecha de elaboración\nSeptiembre 2020"
+}

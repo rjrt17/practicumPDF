@@ -1,0 +1,768 @@
+{
+    "file_name": "DSOF_1067-O20F21.pdf",
+    "total_elements": 28,
+    "elements": [
+        {
+            "type": "heading",
+            "id": 31,
+            "page_number": 1,
+            "content": "UNIVERSIDAD TÉCNICA PARTICULAR DE LOJA"
+        },
+        {
+            "type": "paragraph",
+            "id": 32,
+            "page_number": 1,
+            "content": "MODALIDAD PRESENCIAL"
+        },
+        {
+            "type": "heading",
+            "id": 33,
+            "page_number": 1,
+            "content": "ÁREA ACADÉMICA: Técnica"
+        },
+        {
+            "type": "heading",
+            "id": 34,
+            "page_number": 1,
+            "content": "CARRERA: Computación"
+        },
+        {
+            "type": "heading",
+            "id": 35,
+            "page_number": 1,
+            "content": "PROGRAMA DE ASIGNATURA: Introducción a la programación"
+        },
+        {
+            "type": "paragraph",
+            "id": 36,
+            "page_number": 1,
+            "content": "Loja – Ecuador"
+        },
+        {
+            "type": "paragraph",
+            "id": 37,
+            "page_number": 1,
+            "content": "2020"
+        },
+        {
+            "type": "heading",
+            "id": 39,
+            "page_number": 2,
+            "content": "A. Datos de identificación de la asignatura"
+        },
+        {
+            "type": "table",
+            "id": "T2_1",
+            "page_number": 2,
+            "table_number": 1,
+            "rows": [
+                {
+                    "row_number": 1,
+                    "cells": [
+                        {
+                            "column_number": 1,
+                            "content": "Asignatura:"
+                        },
+                        {
+                            "column_number": 2,
+                            "content": "Introducción a la programación"
+                        }
+                    ]
+                },
+                {
+                    "row_number": 2,
+                    "cells": [
+                        {
+                            "column_number": 1,
+                            "content": "Modalidad de estudio:"
+                        },
+                        {
+                            "column_number": 2,
+                            "content": "Presencial"
+                        }
+                    ]
+                },
+                {
+                    "row_number": 3,
+                    "cells": [
+                        {
+                            "column_number": 1,
+                            "content": "Área Académica:"
+                        },
+                        {
+                            "column_number": 2,
+                            "content": "Técnica"
+                        }
+                    ]
+                },
+                {
+                    "row_number": 4,
+                    "cells": [
+                        {
+                            "column_number": 1,
+                            "content": "Sección Departamental:"
+                        },
+                        {
+                            "column_number": 2,
+                            "content": "Tecnologías avanzadas de la web y Sistemas basados en el\nconocimiento"
+                        }
+                    ]
+                },
+                {
+                    "row_number": 5,
+                    "cells": [
+                        {
+                            "column_number": 1,
+                            "content": "Nombre de la Carrera:"
+                        },
+                        {
+                            "column_number": 2,
+                            "content": "Computación"
+                        }
+                    ]
+                },
+                {
+                    "row_number": 6,
+                    "cells": [
+                        {
+                            "column_number": 1,
+                            "content": "Campo de formación del currículo:"
+                        },
+                        {
+                            "column_number": 2,
+                            "content": "Fundamentos teóricos"
+                        }
+                    ]
+                },
+                {
+                    "row_number": 7,
+                    "cells": [
+                        {
+                            "column_number": 1,
+                            "content": "Período Académico:"
+                        },
+                        {
+                            "column_number": 2,
+                            "content": "Primero"
+                        }
+                    ]
+                },
+                {
+                    "row_number": 8,
+                    "cells": [
+                        {
+                            "column_number": 1,
+                            "content": "Número de crédito horas:"
+                        },
+                        {
+                            "column_number": 2,
+                            "content": "Crédito: 3"
+                        },
+                        {
+                            "column_number": 3,
+                            "content": "Horas: 144"
+                        }
+                    ]
+                },
+                {
+                    "row_number": 9,
+                    "cells": [
+                        {
+                            "column_number": 1,
+                            "content": "Código:"
+                        },
+                        {
+                            "column_number": 2,
+                            "content": "DSOF_1067"
+                        }
+                    ]
+                },
+                {
+                    "row_number": 10,
+                    "cells": [
+                        {
+                            "column_number": 1,
+                            "content": "Pre-requisitos:"
+                        },
+                        {
+                            "column_number": 2,
+                            "content": "-"
+                        }
+                    ]
+                },
+                {
+                    "row_number": 11,
+                    "cells": [
+                        {
+                            "column_number": 1,
+                            "content": "Correquisitos:"
+                        },
+                        {
+                            "column_number": 2,
+                            "content": "-"
+                        }
+                    ]
+                },
+                {
+                    "row_number": 12,
+                    "cells": [
+                        {
+                            "column_number": 1,
+                            "content": "Resultados de aprendizaje del\nperfil de Egreso al que aporta la\nasignatura:"
+                        },
+                        {
+                            "column_number": 2,
+                            "content": "Analizar problemas computacionales y plantear soluciones mediante\nmétodos matemáticos."
+                        }
+                    ]
+                },
+                {
+                    "row_number": 13,
+                    "cells": [
+                        {
+                            "column_number": 1,
+                            "content": "Competencia/s específica/s a la\nque aporta la asignatura:"
+                        },
+                        {
+                            "column_number": 2,
+                            "content": "Demuestra dominio de conocimientos y habilidades para la solución\nde problemas mediante la aplicación y creación de algoritmos,\nmodelos matemáticos y métodos de Ciencias de la Computación."
+                        }
+                    ]
+                },
+                {
+                    "row_number": 14,
+                    "cells": [
+                        {
+                            "column_number": 1,
+                            "content": "Fecha de elaboración:"
+                        },
+                        {
+                            "column_number": 2,
+                            "content": "Septiembre 2020"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "heading",
+            "id": 41,
+            "page_number": 2,
+            "content": "B. Descripción general de la asignatura"
+        },
+        {
+            "type": "paragraph",
+            "id": 42,
+            "page_number": 2,
+            "content": "Esta asignatura permite establecer en el proceso de formación de un ingeniero en Ciencias de la Computación, que la programación es una de las áreas fundamentales, pues, muchas de las actividades profesionales exigen el conocimiento en este campo. Se la dicta en el segundo ciclo, aquí se enseñan las bases metodológicas y técnicas que le permitirán programar en cualquier lenguaje de alto nivel. Además, a través de los nuevos conocimientos, se podrá sentar las bases teóricas y prácticas para lograr los resultados de aprendizaje de asignaturas posteriores; contribuyendo al logro del perfil de egreso y al perfil profesional."
+        },
+        {
+            "type": "heading",
+            "id": 43,
+            "page_number": 2,
+            "content": "C. Resultados de Aprendizaje de la asignatura"
+        },
+        {
+            "type": "list",
+            "id": 44,
+            "page_number": 2,
+            "items": [
+                {
+                    "content": "o Analiza y explica el comportamiento de programas que involucran estructuras fundamentales de programación como variables, expresiones, asignaciones, archivos, estructuras de decisión y control, arreglos, funciones, paso de parámetros, y recursividad."
+                },
+                {
+                    "content": "o Diseña, implementa, prueba, y depura un programa que usa estructuras fundamentales de programación"
+                },
+                {
+                    "content": "o Identifica y previene errores de codificación comunes a nivel lógico y de sintaxis, a través del uso de excepciones"
+                },
+                {
+                    "content": "o Aplica estrategias para la prueba y depuración de programas."
+                },
+                {
+                    "content": "o Construye, ejecuta y depura programas usando un IDE moderno"
+                }
+            ]
+        },
+        {
+            "type": "list",
+            "id": 47,
+            "page_number": 3,
+            "items": [
+                {
+                    "content": "o Aplica estándares de documentación y estilo de programación que contribuyan a la legibilidad y mantenimiento de software"
+                },
+                {
+                    "content": "o Extrae y manipula información de archivos de datos"
+                }
+            ]
+        },
+        {
+            "type": "heading",
+            "id": 48,
+            "page_number": 3,
+            "content": "D. Contenidos"
+        },
+        {
+            "type": "table",
+            "id": "T4_1",
+            "page_number": 4,
+            "table_number": 1,
+            "rows": [
+                {
+                    "row_number": 1,
+                    "cells": [
+                        {
+                            "column_number": 1,
+                            "content": "Nro.\nde\norden"
+                        },
+                        {
+                            "column_number": 2,
+                            "content": "Nombre de la Unidad"
+                        },
+                        {
+                            "column_number": 3,
+                            "content": "Temas y subtemas de la unidad\n(contenidos)"
+                        },
+                        {
+                            "column_number": 4,
+                            "content": "Número de\ncréditos/ total\nde horas de\nla asignatura"
+                        }
+                    ]
+                },
+                {
+                    "row_number": 2,
+                    "cells": [
+                        {
+                            "column_number": 1,
+                            "content": "1"
+                        },
+                        {
+                            "column_number": 2,
+                            "content": "Unidad I: Introducción a\nProgramación."
+                        },
+                        {
+                            "column_number": 3,
+                            "content": " Introducción\n Importancia de la programación\n Lenguajes de Programación\n Metodologías de programación\n Entornos de Programación"
+                        },
+                        {
+                            "column_number": 4,
+                            "content": "3/144"
+                        }
+                    ]
+                },
+                {
+                    "row_number": 3,
+                    "cells": [
+                        {
+                            "column_number": 1,
+                            "content": "2"
+                        },
+                        {
+                            "column_number": 2,
+                            "content": "Unidad II: Entornos\nmodernos de desarrollo."
+                        },
+                        {
+                            "column_number": 3,
+                            "content": " Gestión de código fuente a través de software de\ncontrol de versiones\n Entornos de virtualización para pruebas y\ndesarrollo\n Introducción Computación en la nube (Cloud\nComputing)"
+                        }
+                    ]
+                },
+                {
+                    "row_number": 4,
+                    "cells": [
+                        {
+                            "column_number": 1,
+                            "content": "3"
+                        },
+                        {
+                            "column_number": 2,
+                            "content": "Unidad III: Sintaxis y\nSemántica de lenguajes\nde programación."
+                        },
+                        {
+                            "column_number": 3,
+                            "content": " Elementos básicos de la programación\n Manejo de tipos de datos en lenguajes de alto\nnivel\n Manejo de operadores y expresiones en lenguaje\nde alto nivel\n Creación de programas en lenguajes de alto nivel\n Depuración de programas"
+                        }
+                    ]
+                },
+                {
+                    "row_number": 5,
+                    "cells": [
+                        {
+                            "column_number": 1,
+                            "content": "4"
+                        },
+                        {
+                            "column_number": 2,
+                            "content": "Unidad IV: Estructuras\nde control."
+                        },
+                        {
+                            "column_number": 3,
+                            "content": " Estructuras de selección simple.\n Estructuras de selección compuestas.\n Estructuras de selección anidadas.\n Estructura de control múltiple (switch).\n Estructuras repetitivas while.\n Estructuras repetitivas do-while.\n Estructuras repetitivas for."
+                        }
+                    ]
+                },
+                {
+                    "row_number": 6,
+                    "cells": [
+                        {
+                            "column_number": 1,
+                            "content": "5"
+                        },
+                        {
+                            "column_number": 2,
+                            "content": "Unidad V: Estructuras de\nDatos"
+                        },
+                        {
+                            "column_number": 3,
+                            "content": " Arreglos Unidimensionales\n Arreglos Bidimensionales"
+                        }
+                    ]
+                },
+                {
+                    "row_number": 7,
+                    "cells": [
+                        {
+                            "column_number": 1,
+                            "content": "6"
+                        },
+                        {
+                            "column_number": 2,
+                            "content": "Unidad VI: Módulos y\nFunciones."
+                        },
+                        {
+                            "column_number": 3,
+                            "content": " Introducción\n Declaración de funciones y métodos en lenguajes\nde alto nivel\n Ámbito de variables locales y globales\n Manejo de métodos que no regresan valor.\n Manejo de métodos que regresan valor.\n Sobrecarga de métodos"
+                        }
+                    ]
+                },
+                {
+                    "row_number": 8,
+                    "cells": [
+                        {
+                            "column_number": 2,
+                            "content": "Unidad VII: Recursividad\ny Archivos"
+                        },
+                        {
+                            "column_number": 3,
+                            "content": " Introducción y conceptos básicos de recursividad.\n Recursividad vs Iteración\n Tipos de recursividad\n Aplicación de la recursividad\n Escritura de archivos\n Lectura de archivos"
+                        }
+                    ]
+                },
+                {
+                    "row_number": 9,
+                    "cells": [
+                        {
+                            "column_number": 2,
+                            "content": "Unidad VIII: Librerías,\nAPI ś de desarrollo."
+                        },
+                        {
+                            "column_number": 3,
+                            "content": " Creación de paquetes y librerías en lenguajes de\nalto nivel.\n Consumo de API's de lenguajes de programación\nde alto nivel."
+                        }
+                    ]
+                },
+                {
+                    "row_number": 10,
+                    "cells": [
+                        {
+                            "column_number": 2,
+                            "content": "Unidad IX: Programación\na la defensiva."
+                        },
+                        {
+                            "column_number": 3,
+                            "content": " Conceptos de Programación Defensiva\n Manejo de Assetions\n Introducción al manejo de excepciones"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "table",
+            "id": "T5_1",
+            "page_number": 5,
+            "table_number": 1,
+            "rows": [
+                {
+                    "row_number": 1,
+                    "cells": [
+                        {
+                            "column_number": 3,
+                            "content": " Estrategias para el Manejo de Excepciones\n Diseño de excepciones propias\n Ejemplificación de excepciones en lenguajes de\nalto nivel"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "heading",
+            "id": 55,
+            "page_number": 6,
+            "content": "E. Metodología"
+        },
+        {
+            "type": "paragraph",
+            "id": 56,
+            "page_number": 6,
+            "content": "En la asignatura de Introducción a la Programación, la metodología de enseñanza tiene como finalidad fomentar una sólida formación en conceptos de Programación; se hará uso de diversas técnicas pedagógicas, tales como: desarrollo de ejercicios guiados, resolución de caso base de estudio, trabajos individuales, trabajos grupales, investigación bibliográfica de contenido. Se promoverá la interacción en el aula con las clases presenciales y tutorías, aplicando metodologías activas para el aprendizaje."
+        },
+        {
+            "type": "heading",
+            "id": 57,
+            "page_number": 6,
+            "content": "F. Procedimientos de evaluación"
+        },
+        {
+            "type": "table",
+            "id": "T6_1",
+            "page_number": 6,
+            "table_number": 1,
+            "rows": [
+                {
+                    "row_number": 1,
+                    "cells": [
+                        {
+                            "column_number": 1,
+                            "content": "Componente"
+                        },
+                        {
+                            "column_number": 2,
+                            "content": "Actividades"
+                        },
+                        {
+                            "column_number": 3,
+                            "content": "Peso\n(Ponderación)"
+                        }
+                    ]
+                },
+                {
+                    "row_number": 2,
+                    "cells": [
+                        {
+                            "column_number": 1,
+                            "content": "Contacto con el docente"
+                        },
+                        {
+                            "column_number": 2,
+                            "content": "Evaluación parcial"
+                        },
+                        {
+                            "column_number": 3,
+                            "content": "35%"
+                        }
+                    ]
+                },
+                {
+                    "row_number": 3,
+                    "cells": [
+                        {
+                            "column_number": 2,
+                            "content": "Evaluación bimestral"
+                        }
+                    ]
+                },
+                {
+                    "row_number": 4,
+                    "cells": [
+                        {
+                            "column_number": 1,
+                            "content": "Práctico experimental"
+                        },
+                        {
+                            "column_number": 2,
+                            "content": "Talleres individuales"
+                        },
+                        {
+                            "column_number": 3,
+                            "content": "35%"
+                        }
+                    ]
+                },
+                {
+                    "row_number": 5,
+                    "cells": [
+                        {
+                            "column_number": 2,
+                            "content": "Trabajo colaborativo"
+                        }
+                    ]
+                },
+                {
+                    "row_number": 6,
+                    "cells": [
+                        {
+                            "column_number": 1,
+                            "content": "Autónomo"
+                        },
+                        {
+                            "column_number": 2,
+                            "content": "Proyecto bimestral"
+                        },
+                        {
+                            "column_number": 3,
+                            "content": "30%"
+                        }
+                    ]
+                },
+                {
+                    "row_number": 7,
+                    "cells": [
+                        {
+                            "column_number": 2,
+                            "content": "Consulta de temáticas"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "heading",
+            "id": 60,
+            "page_number": 6,
+            "content": "G. Bibliografía:"
+        },
+        {
+            "type": "paragraph",
+            "id": 61,
+            "page_number": 6,
+            "content": " Básica:"
+        },
+        {
+            "type": "list",
+            "id": 62,
+            "page_number": 6,
+            "items": [
+                {
+                    "content": "o Dietel, P. y Dietel, H. (2016). Java Como Programar. México: Pearson Prentice Hall."
+                },
+                {
+                    "content": "o López Román, Leobardo. (2013) Metodología programación orientada a objetos. México"
+                }
+            ]
+        },
+        {
+            "type": "paragraph",
+            "id": 63,
+            "page_number": 6,
+            "content": " Complementaria:"
+        },
+        {
+            "type": "list",
+            "id": 64,
+            "page_number": 6,
+            "items": [
+                {
+                    "content": "o Cadenhead, Roger (2014). PROGRAMACIÓN JAVA 8. Anaya"
+                },
+                {
+                    "content": "o Fernández, Arturo (2013). Python 3 al descubierto. Segunda. Edición. Rc Libros"
+                },
+                {
+                    "content": "o Joyanes A, Luis (2011). Programación en Java 6 Algoritmos, POO e Interfaz Gráfica de Usuario. México. McGraw-Hill"
+                },
+                {
+                    "content": "o Thomas, Erl (2013). Cloud computing: concepts, technology & architecture. New Jersey. Prentice Hall"
+                }
+            ]
+        },
+        {
+            "type": "heading",
+            "id": 65,
+            "page_number": 6,
+            "content": "H. Elaboración y aprobación"
+        },
+        {
+            "type": "table",
+            "id": "T7_1",
+            "page_number": 7,
+            "table_number": 1,
+            "rows": [
+                {
+                    "row_number": 1,
+                    "cells": [
+                        {
+                            "column_number": 1,
+                            "content": "Actividades"
+                        },
+                        {
+                            "column_number": 2,
+                            "content": "Nombre"
+                        },
+                        {
+                            "column_number": 3,
+                            "content": "Función"
+                        },
+                        {
+                            "column_number": 4,
+                            "content": "Firma"
+                        }
+                    ]
+                },
+                {
+                    "row_number": 2,
+                    "cells": [
+                        {
+                            "column_number": 1,
+                            "content": "Elaboración:"
+                        },
+                        {
+                            "column_number": 2,
+                            "content": "Pedro Daniel Irene Robalino"
+                        },
+                        {
+                            "column_number": 3,
+                            "content": "Equipo de Gestión de Calidad"
+                        }
+                    ]
+                },
+                {
+                    "row_number": 3,
+                    "cells": [
+                        {
+                            "column_number": 1,
+                            "content": "Revisión:"
+                        },
+                        {
+                            "column_number": 2,
+                            "content": "María Belén Mora Arciniegas"
+                        },
+                        {
+                            "column_number": 3,
+                            "content": "Responsable de Sección\nDepartamental"
+                        }
+                    ]
+                },
+                {
+                    "row_number": 4,
+                    "cells": [
+                        {
+                            "column_number": 1,
+                            "content": "Aprobación:"
+                        },
+                        {
+                            "column_number": 2,
+                            "content": "Ramiro Alberto Correa Jaramillo"
+                        },
+                        {
+                            "column_number": 3,
+                            "content": "Director de Área (con informe de\nla sección departamental)"
+                        }
+                    ]
+                },
+                {
+                    "row_number": 5,
+                    "cells": [
+                        {
+                            "column_number": 1,
+                            "content": "Fecha de elaboración"
+                        },
+                        {
+                            "column_number": 3,
+                            "content": "Septiembre 2020"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,613 @@
+{
+    "file_name": "DSOF_1067-O20F21.pdf",
+    "kids": [
+        {
+            "type": "heading",
+            "pdfua_tag": "H1",
+            "id": 31,
+            "level": "Doctitle",
+            "page number": 1,
+            "bounding box": [
+                118.3,
+                587.325,
+                457.33,
+                607.979
+            ],
+            "heading level": 1,
+            "font": "LiberationSansNarrow-Bold",
+            "font size": 18.0,
+            "text color": "[0.0, 0.0, 0.0]",
+            "content": "UNIVERSIDAD TÉCNICA PARTICULAR DE LOJA"
+        },
+        {
+            "type": "paragraph",
+            "pdfua_tag": "P",
+            "id": 32,
+            "page number": 1,
+            "bounding box": [
+                191.5,
+                553.098,
+                356.076,
+                571.458
+            ],
+            "font": "LiberationSansNarrow",
+            "font size": 16.0,
+            "text color": "[0.0, 0.0, 0.0]",
+            "content": "MODALIDAD PRESENCIAL"
+        },
+        {
+            "type": "heading",
+            "pdfua_tag": "H1",
+            "id": 33,
+            "level": "Subtitle",
+            "page number": 1,
+            "bounding box": [
+                175.5,
+                465.475,
+                372.192,
+                486.129
+            ],
+            "heading level": 1,
+            "font": "LiberationSansNarrow-Bold",
+            "font size": 18.0,
+            "text color": "[0.0, 0.0, 0.0]",
+            "content": "ÁREA ACADÉMICA: Técnica"
+        },
+        {
+            "type": "heading",
+            "pdfua_tag": "H2",
+            "id": 34,
+            "level": "Subtitle",
+            "page number": 1,
+            "bounding box": [
+                189.0,
+                407.725,
+                358.69,
+                428.379
+            ],
+            "heading level": 2,
+            "font": "LiberationSansNarrow",
+            "font size": 18.0,
+            "text color": "[0.0, 0.0, 0.0]",
+            "content": "CARRERA: Computación"
+        },
+        {
+            "type": "heading",
+            "pdfua_tag": "H3",
+            "id": 35,
+            "level": "Subtitle",
+            "page number": 1,
+            "bounding box": [
+                78.6,
+                313.598,
+                460.444,
+                331.958
+            ],
+            "heading level": 3,
+            "font": "LiberationSansNarrow-Bold",
+            "font size": 16.0,
+            "text color": "[0.0, 0.0, 0.0]",
+            "content": "PROGRAMA DE ASIGNATURA: Introducción a la programación"
+        },
+        {
+            "type": "paragraph",
+            "pdfua_tag": "P",
+            "id": 36,
+            "page number": 1,
+            "bounding box": [
+                225.45,
+                228.098,
+                313.578,
+                246.458
+            ],
+            "font": "LiberationSansNarrow",
+            "font size": 16.0,
+            "text color": "[0.0, 0.0, 0.0]",
+            "content": "Loja – Ecuador"
+        },
+        {
+            "type": "paragraph",
+            "pdfua_tag": "P",
+            "id": 37,
+            "page number": 1,
+            "bounding box": [
+                255.0,
+                176.798,
+                284.136,
+                195.158
+            ],
+            "font": "LiberationSansNarrow",
+            "font size": 16.0,
+            "text color": "[0.0, 0.0, 0.0]",
+            "content": "2020"
+        },
+        {
+            "type": "heading",
+            "pdfua_tag": "H4",
+            "id": 39,
+            "level": "Subtitle",
+            "page number": 2,
+            "bounding box": [
+                74.8,
+                727.622,
+                308.806,
+                743.687
+            ],
+            "heading level": 4,
+            "font": "LiberationSansNarrow-Bold",
+            "font size": 14.0,
+            "text color": "[0.0, 0.0, 0.0]",
+            "content": "A. Datos de identificación de la asignatura"
+        },
+        {
+            "type": "heading",
+            "pdfua_tag": "H4",
+            "id": 41,
+            "level": "Subtitle",
+            "page number": 2,
+            "bounding box": [
+                74.8,
+                399.622,
+                292.902,
+                415.687
+            ],
+            "heading level": 4,
+            "font": "LiberationSansNarrow-Bold",
+            "font size": 14.0,
+            "text color": "[0.0, 0.0, 0.0]",
+            "content": "B. Descripción general de la asignatura"
+        },
+        {
+            "type": "paragraph",
+            "pdfua_tag": "P",
+            "id": 42,
+            "page number": 2,
+            "bounding box": [
+                92.2,
+                263.708,
+                537.139,
+                377.497
+            ],
+            "font": "ArialMT",
+            "font size": 11.0,
+            "text color": "[0.0, 0.0, 0.0]",
+            "content": "Esta asignatura permite establecer en el proceso de formación de un ingeniero en Ciencias de la Computación, que la programación es una de las áreas fundamentales, pues, muchas de las actividades profesionales exigen el conocimiento en este campo. Se la dicta en el segundo ciclo, aquí se enseñan las bases metodológicas y técnicas que le permitirán programar en cualquier lenguaje de alto nivel. Además, a través de los nuevos conocimientos, se podrá sentar las bases teóricas y prácticas para lograr los resultados de aprendizaje de asignaturas posteriores; contribuyendo al logro del perfil de egreso y al perfil profesional."
+        },
+        {
+            "type": "heading",
+            "pdfua_tag": "H4",
+            "id": 43,
+            "level": "Subtitle",
+            "page number": 2,
+            "bounding box": [
+                74.8,
+                212.172,
+                329.82,
+                228.237
+            ],
+            "heading level": 4,
+            "font": "LiberationSansNarrow-Bold",
+            "font size": 14.0,
+            "text color": "[0.0, 0.0, 0.0]",
+            "content": "C. Resultados de Aprendizaje de la asignatura"
+        },
+        {
+            "type": "list",
+            "pdfua_tag": "L",
+            "id": 44,
+            "level": "2",
+            "page number": 2,
+            "bounding box": [
+                127.6,
+                56.486,
+                547.078,
+                187.397
+            ],
+            "numbering style": "unordered",
+            "number of list items": 5,
+            "next list id": 47,
+            "list items": [
+                {
+                    "type": "list item",
+                    "pdfua_tag": "LI",
+                    "page number": 2,
+                    "bounding box": [
+                        127.6,
+                        136.208,
+                        538.718,
+                        187.397
+                    ],
+                    "font": "CourierNewPSMT",
+                    "font size": 11.0,
+                    "text color": "[0.0, 0.0, 0.0]",
+                    "content": "o Analiza y explica el comportamiento de programas que involucran estructuras fundamentales de programación como variables, expresiones, asignaciones, archivos, estructuras de decisión y control, arreglos, funciones, paso de parámetros, y recursividad.",
+                    "kids": []
+                },
+                {
+                    "type": "list item",
+                    "pdfua_tag": "LI",
+                    "page number": 2,
+                    "bounding box": [
+                        127.6,
+                        109.958,
+                        538.685,
+                        135.847
+                    ],
+                    "font": "CourierNewPSMT",
+                    "font size": 11.0,
+                    "text color": "[0.0, 0.0, 0.0]",
+                    "content": "o Diseña, implementa, prueba, y depura un programa que usa estructuras fundamentales de programación",
+                    "kids": []
+                },
+                {
+                    "type": "list item",
+                    "pdfua_tag": "LI",
+                    "page number": 2,
+                    "bounding box": [
+                        127.6,
+                        83.708,
+                        547.078,
+                        109.597
+                    ],
+                    "font": "CourierNewPSMT",
+                    "font size": 11.0,
+                    "text color": "[0.0, 0.0, 0.0]",
+                    "content": "o Identifica y previene errores de codificación comunes a nivel lógico y de sintaxis, a través del uso de excepciones",
+                    "kids": []
+                },
+                {
+                    "type": "list item",
+                    "pdfua_tag": "LI",
+                    "page number": 2,
+                    "bounding box": [
+                        127.6,
+                        70.086,
+                        446.263,
+                        83.347
+                    ],
+                    "font": "CourierNewPSMT",
+                    "font size": 11.0,
+                    "text color": "[0.0, 0.0, 0.0]",
+                    "content": "o Aplica estrategias para la prueba y depuración de programas.",
+                    "kids": []
+                },
+                {
+                    "type": "list item",
+                    "pdfua_tag": "LI",
+                    "page number": 2,
+                    "bounding box": [
+                        127.6,
+                        56.486,
+                        460.937,
+                        69.747
+                    ],
+                    "font": "CourierNewPSMT",
+                    "font size": 11.0,
+                    "text color": "[0.0, 0.0, 0.0]",
+                    "content": "o Construye, ejecuta y depura programas usando un IDE moderno",
+                    "kids": []
+                }
+            ]
+        },
+        {
+            "type": "list",
+            "pdfua_tag": "L",
+            "id": 47,
+            "level": "2",
+            "page number": 3,
+            "bounding box": [
+                127.6,
+                702.786,
+                539.213,
+                742.297
+            ],
+            "numbering style": "unordered",
+            "number of list items": 2,
+            "previous list id": 44,
+            "list items": [
+                {
+                    "type": "list item",
+                    "pdfua_tag": "LI",
+                    "page number": 3,
+                    "bounding box": [
+                        127.6,
+                        716.408,
+                        539.213,
+                        742.297
+                    ],
+                    "font": "CourierNewPSMT",
+                    "font size": 11.0,
+                    "text color": "[0.0, 0.0, 0.0]",
+                    "content": "o Aplica estándares de documentación y estilo de programación que contribuyan a la legibilidad y mantenimiento de software",
+                    "kids": []
+                },
+                {
+                    "type": "list item",
+                    "pdfua_tag": "LI",
+                    "page number": 3,
+                    "bounding box": [
+                        127.6,
+                        702.786,
+                        397.995,
+                        716.047
+                    ],
+                    "font": "CourierNewPSMT",
+                    "font size": 11.0,
+                    "text color": "[0.0, 0.0, 0.0]",
+                    "content": "o Extrae y manipula información de archivos de datos",
+                    "kids": []
+                }
+            ]
+        },
+        {
+            "type": "heading",
+            "pdfua_tag": "H4",
+            "id": 48,
+            "level": "Subtitle",
+            "page number": 3,
+            "bounding box": [
+                74.8,
+                662.472,
+                155.884,
+                678.537
+            ],
+            "heading level": 4,
+            "font": "LiberationSansNarrow-Bold",
+            "font size": 14.0,
+            "text color": "[0.0, 0.0, 0.0]",
+            "content": "D. Contenidos"
+        },
+        {
+            "type": "heading",
+            "pdfua_tag": "H4",
+            "id": 55,
+            "level": "Subtitle",
+            "page number": 6,
+            "bounding box": [
+                74.8,
+                727.622,
+                160.35,
+                743.687
+            ],
+            "heading level": 4,
+            "font": "LiberationSansNarrow-Bold",
+            "font size": 14.0,
+            "text color": "[0.0, 0.0, 0.0]",
+            "content": "E. Metodología"
+        },
+        {
+            "type": "paragraph",
+            "pdfua_tag": "P",
+            "id": 56,
+            "page number": 6,
+            "bounding box": [
+                92.2,
+                619.246,
+                538.612,
+                715.452
+            ],
+            "font": "ArialMT",
+            "font size": 12.0,
+            "text color": "[0.0, 0.0, 0.0]",
+            "content": "En la asignatura de Introducción a la Programación, la metodología de enseñanza tiene como finalidad fomentar una sólida formación en conceptos de Programación; se hará uso de diversas técnicas pedagógicas, tales como: desarrollo de ejercicios guiados, resolución de caso base de estudio, trabajos individuales, trabajos grupales, investigación bibliográfica de contenido. Se promoverá la interacción en el aula con las clases presenciales y tutorías, aplicando metodologías activas para el aprendizaje."
+        },
+        {
+            "type": "heading",
+            "pdfua_tag": "H4",
+            "id": 57,
+            "level": "Subtitle",
+            "page number": 6,
+            "bounding box": [
+                74.8,
+                574.222,
+                257.846,
+                590.287
+            ],
+            "heading level": 4,
+            "font": "LiberationSansNarrow-Bold",
+            "font size": 14.0,
+            "text color": "[0.0, 0.0, 0.0]",
+            "content": "F. Procedimientos de evaluación"
+        },
+        {
+            "type": "heading",
+            "pdfua_tag": "H4",
+            "id": 60,
+            "level": "Subtitle",
+            "page number": 6,
+            "bounding box": [
+                74.8,
+                352.722,
+                159.678,
+                368.787
+            ],
+            "heading level": 4,
+            "font": "LiberationSansNarrow-Bold",
+            "font size": 14.0,
+            "text color": "[0.0, 0.0, 0.0]",
+            "content": "G. Bibliografía:"
+        },
+        {
+            "type": "paragraph",
+            "pdfua_tag": "P",
+            "id": 61,
+            "level": "6",
+            "page number": 6,
+            "bounding box": [
+                110.8,
+                329.115,
+                160.854,
+                341.78
+            ],
+            "font": "LiberationSansNarrow-Bold",
+            "font size": 11.0,
+            "text color": "[0.0, 0.0, 0.0]",
+            "content": " Básica:"
+        },
+        {
+            "type": "list",
+            "pdfua_tag": "L",
+            "id": 62,
+            "level": "7",
+            "page number": 6,
+            "bounding box": [
+                146.8,
+                271.846,
+                538.036,
+                328.752
+            ],
+            "numbering style": "unordered",
+            "number of list items": 2,
+            "list items": [
+                {
+                    "type": "list item",
+                    "pdfua_tag": "LI",
+                    "page number": 6,
+                    "bounding box": [
+                        146.8,
+                        300.496,
+                        537.892,
+                        328.752
+                    ],
+                    "font": "CourierNewPSMT",
+                    "font size": 12.0,
+                    "text color": "[0.0, 0.0, 0.0]",
+                    "content": "o Dietel, P. y Dietel, H. (2016). Java Como Programar. México: Pearson Prentice Hall.",
+                    "kids": []
+                },
+                {
+                    "type": "list item",
+                    "pdfua_tag": "LI",
+                    "page number": 6,
+                    "bounding box": [
+                        146.8,
+                        271.846,
+                        538.036,
+                        300.102
+                    ],
+                    "font": "CourierNewPSMT",
+                    "font size": 12.0,
+                    "text color": "[0.0, 0.0, 0.0]",
+                    "content": "o López Román, Leobardo. (2013) Metodología programación orientada a objetos. México",
+                    "kids": []
+                }
+            ]
+        },
+        {
+            "type": "paragraph",
+            "pdfua_tag": "P",
+            "id": 63,
+            "level": "6",
+            "page number": 6,
+            "bounding box": [
+                110.8,
+                248.215,
+                202.412,
+                260.88
+            ],
+            "font": "LiberationSansNarrow-Bold",
+            "font size": 11.0,
+            "text color": "[0.0, 0.0, 0.0]",
+            "content": " Complementaria:"
+        },
+        {
+            "type": "list",
+            "pdfua_tag": "L",
+            "id": 64,
+            "level": "7",
+            "page number": 6,
+            "bounding box": [
+                146.8,
+                147.446,
+                538.312,
+                247.852
+            ],
+            "numbering style": "unordered",
+            "number of list items": 4,
+            "list items": [
+                {
+                    "type": "list item",
+                    "pdfua_tag": "LI",
+                    "page number": 6,
+                    "bounding box": [
+                        146.8,
+                        233.385,
+                        494.584,
+                        247.852
+                    ],
+                    "font": "CourierNewPSMT",
+                    "font size": 12.0,
+                    "text color": "[0.0, 0.0, 0.0]",
+                    "content": "o Cadenhead, Roger (2014). PROGRAMACIÓN JAVA 8. Anaya",
+                    "kids": []
+                },
+                {
+                    "type": "list item",
+                    "pdfua_tag": "LI",
+                    "page number": 6,
+                    "bounding box": [
+                        146.8,
+                        204.746,
+                        538.0,
+                        233.002
+                    ],
+                    "font": "CourierNewPSMT",
+                    "font size": 12.0,
+                    "text color": "[0.0, 0.0, 0.0]",
+                    "content": "o Fernández, Arturo (2013). Python 3 al descubierto. Segunda. Edición. Rc Libros",
+                    "kids": []
+                },
+                {
+                    "type": "list item",
+                    "pdfua_tag": "LI",
+                    "page number": 6,
+                    "bounding box": [
+                        146.8,
+                        176.096,
+                        538.144,
+                        204.352
+                    ],
+                    "font": "CourierNewPSMT",
+                    "font size": 12.0,
+                    "text color": "[0.0, 0.0, 0.0]",
+                    "content": "o Joyanes A, Luis (2011). Programación en Java 6 Algoritmos, POO e Interfaz Gráfica de Usuario. México. McGraw-Hill",
+                    "kids": []
+                },
+                {
+                    "type": "list item",
+                    "pdfua_tag": "LI",
+                    "page number": 6,
+                    "bounding box": [
+                        146.8,
+                        147.446,
+                        538.312,
+                        175.702
+                    ],
+                    "font": "CourierNewPSMT",
+                    "font size": 12.0,
+                    "text color": "[0.0, 0.0, 0.0]",
+                    "content": "o Thomas, Erl (2013). Cloud computing: concepts, technology & architecture. New Jersey. Prentice Hall",
+                    "kids": []
+                }
+            ]
+        },
+        {
+            "type": "heading",
+            "pdfua_tag": "H4",
+            "id": 65,
+            "level": "Subtitle",
+            "page number": 6,
+            "bounding box": [
+                74.8,
+                108.872,
+                232.996,
+                124.937
+            ],
+            "heading level": 4,
+            "font": "LiberationSansNarrow-Bold",
+            "font size": 14.0,
+            "text color": "[0.0, 0.0, 0.0]",
+            "content": "H. Elaboración y aprobación"
+        }
+    ]
+}
